@@ -19,3 +19,4 @@ Common ports: FTP (21) · SSH (22) · HTTP (80) · HTTPS (443) · SMB (445) · R
 [[18. Packets and Frames]]
 [[19. Extending your network]]
 [[21. HTTP in detail]]
+[[12. Networking Concepts]]

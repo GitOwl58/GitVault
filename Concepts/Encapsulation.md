@@ -12,6 +12,7 @@ Reverse process: **[[Decapsulation]]** — headers get stripped away as data mov
 ### Source:
 [[17. OSI Model]]
 [[18. Packets and Frames]]
+[[12. Networking Concepts]]
 
 
 

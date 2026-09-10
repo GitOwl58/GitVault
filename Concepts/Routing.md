@@ -17,3 +17,4 @@ Performed by [[Router]] devices.
 [[16. Intro to LAN]] 
 [[17. OSI Model]]
 [[19. Extending your network]]
+[[12. Networking Concepts]]

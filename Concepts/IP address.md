@@ -20,3 +20,4 @@ Works alongside MAC address via ARP. Used at OSI model Layer 3 for Routing. Grow
 [[19. Extending your network]]
 [[20. DNS in details]]
 [[21. HTTP in detail]]
+[[12. Networking Concepts]]

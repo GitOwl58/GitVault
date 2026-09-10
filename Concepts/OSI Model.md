@@ -19,3 +19,4 @@ A 7-layer framework dictating how networked devices send, receive, and interpret
 [[17. OSI Model]]
 [[18. Packets and Frames]]
 [[19. Extending your network]]
+[[12. Networking Concepts]]

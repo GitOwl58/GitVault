@@ -12,4 +12,5 @@ Used for: small discovery packets ([[ARP]], [[DHCP]]) and large files where mino
 ### Source: 
 [[17. OSI Model]]
 [[18. Packets and Frames]]
+[[12. Networking Concepts]]
 
