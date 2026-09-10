@@ -1,0 +1,100 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#domain/pentesting",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#domain/hardware  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#domain/security  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#domain/software  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#domain/networking  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#domain/os",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#domain/cloud-virtualisation  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:Litterature  ",
+      "color": {
+        "a": 1,
+        "rgb": 4262364
+      }
+    },
+    {
+      "query": "tag:#domain/programming  ",
+      "color": {
+        "a": 1,
+        "rgb": 15479470
+      }
+    },
+    {
+      "query": "tag:#type/butler_journal  ",
+      "color": {
+        "a": 1,
+        "rgb": 550926
+      }
+    },
+    {
+      "query": "tag:#individual  ",
+      "color": {
+        "a": 1,
+        "rgb": 11730944
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.72678343008954,
+  "lineSizeMultiplier": 0.554659057364951,
+  "collapse-forces": true,
+  "centerStrength": 0.502410705500344,
+  "repelStrength": 8.82416609268917,
+  "linkStrength": 0.905244514415035,
+  "linkDistance": 30,
+  "scale": 0.19139969223313275,
+  "close": true
+}

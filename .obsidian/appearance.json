@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "graph view color fill"
+  ],
+  "cssTheme": "AnuPpuccin",
+  "showRibbon": true,
+  "translucency": true,
+  "theme": "obsidian"
+}

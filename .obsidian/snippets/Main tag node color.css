@@ -1,0 +1,8 @@
+/* Set node colors in graph view */
+
+/* Node colors for dark  mode */
+.theme-dark .graph-view.color-fill-tag {
+    color: #06B6D4; 
+    opacity: 1.0;
+}
+
