@@ -1,4 +1,4 @@
-#type/concept #domain/networking
+#domain/networking
 
 # DNS Record Types
 
@@ -13,3 +13,4 @@
 
 ### Source: 
 [[20. DNS in details]]
+[[14. Networking Core Protocols]]

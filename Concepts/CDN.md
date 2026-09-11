@@ -1,4 +1,4 @@
-#type/concept #domain/networking 
+#domain/networking
 
 ### **CDN (Content Delivery Network)**
 

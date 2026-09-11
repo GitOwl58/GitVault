@@ -1,4 +1,4 @@
-#type/concept #domain/networking
+#domain/networking
 
 # UDP (User Datagram Protocol)
 

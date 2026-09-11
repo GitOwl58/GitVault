@@ -1,6 +1,6 @@
 # DoH (DNS over HTTPS)
 
-#domain/networking #domain/security #type/concept 
+#domain/networking #domain/security
 
 DNS resolution tunneled inside HTTPS, over the same **port 443** used for normal web traffic.
 

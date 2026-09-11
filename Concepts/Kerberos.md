@@ -1,4 +1,4 @@
-#type/concept #domain/security #domain/networking
+#domain/security #domain/networking
 
 # Kerberos
 

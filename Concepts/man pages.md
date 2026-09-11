@@ -1,5 +1,5 @@
 
-#type/concept #domain/os 
+#domain/os
 
 # man pages
 

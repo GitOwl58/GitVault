@@ -1,4 +1,4 @@
-#type/concept #domain/security #domain/pentesting #domain/networking
+#domain/security #domain/pentesting #domain/networking
 
 # ARP Spoofing
 

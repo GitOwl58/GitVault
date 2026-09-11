@@ -1,4 +1,4 @@
-#type/concept #domain/hardware 
+#domain/hardware
 
 ## Server
 

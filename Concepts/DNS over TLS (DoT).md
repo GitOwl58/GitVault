@@ -2,7 +2,7 @@
 aliases:
   - DoT
 ---
-#domain/networking  #domain/security  #type/concept 
+#domain/networking #domain/security
 # DNS over TLS (DoT)
 
 

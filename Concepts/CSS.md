@@ -1,4 +1,4 @@
-#type/concept #domain/networking 
+#domain/networking
 
 ### CSS **Cascading Style Sheets** 
 CSS is used to style the content of a web page by adding design elements like colors, fonts, and spacing. You can use CSS to change the look and feel of any element on a web page, from the overall layout to individual HTML tags.

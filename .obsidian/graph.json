@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#domain/pentesting",
@@ -95,6 +95,6 @@
   "repelStrength": 8.82416609268917,
   "linkStrength": 0.905244514415035,
   "linkDistance": 30,
-  "scale": 0.19139969223313258,
-  "close": false
+  "scale": 0.08506652988139216,
+  "close": true
 }

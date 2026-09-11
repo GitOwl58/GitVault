@@ -1,4 +1,4 @@
-#type/concept #domain/pentesting  
+#domain/pentesting
 # Shodan
 
 

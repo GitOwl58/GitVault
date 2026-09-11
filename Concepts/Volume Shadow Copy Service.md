@@ -1,4 +1,4 @@
-#type/concept #domain/os #domain/security
+#domain/os #domain/security
 
 # Volume Shadow Copy Service (VSS)
 

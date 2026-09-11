@@ -2,7 +2,7 @@
 aliases:
   - Cookies
 ---
-#type/concept #domain/networking
+#domain/networking
 
 # Cookie
 

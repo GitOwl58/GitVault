@@ -1,4 +1,4 @@
-#type/concept #domain/programming 
+#domain/programming
 # print (Python)
 
 **Print** → Displays output on the screen.

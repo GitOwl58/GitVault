@@ -1,4 +1,4 @@
-#type/concept #domain/cloud-virtualisation
+#domain/cloud-virtualisation
 
 # VM (Virtual Machine / Lab Machine)
 

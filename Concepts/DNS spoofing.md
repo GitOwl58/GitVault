@@ -1,4 +1,4 @@
-#domain/security #domain/pentesting #type/concept 
+#domain/security #domain/pentesting
 # DNS Spoofing 
 
 

@@ -1,4 +1,4 @@
-#type/concept #domain/networking
+#domain/networking
 
 # EIGRP (Enhanced Interior Gateway Routing Protocol)
 

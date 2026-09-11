@@ -1,4 +1,4 @@
-#type/concept #domain/programming 
+#domain/programming
 # Dictionary (Python)
 
 **Dictionary** → A collection of key-value pairs.

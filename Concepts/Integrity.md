@@ -1,4 +1,4 @@
-#type/concept #domain/security
+#domain/security
 
 The assurance that data and system behaviour have not been tampered with, data hasn't been altered, corrupted.
 Verified by checksums, hashes, MACs.

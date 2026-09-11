@@ -1,4 +1,4 @@
-#type/concept #domain/software
+#domain/software
 
 # SQL
 

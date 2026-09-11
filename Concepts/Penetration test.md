@@ -1,4 +1,4 @@
-#type/concept #domain/pentesting
+#domain/pentesting
 
 A structured security assessment where an authorized tester attempts to find and exploit vulnerabilities within a specific scope, to understand the risks they pose.
 

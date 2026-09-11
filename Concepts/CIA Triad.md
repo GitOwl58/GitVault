@@ -1,4 +1,4 @@
-#type/concept #domain/security
+#domain/security
 
 The three core properties information security aims to protect: [[Confidentiality]], [[Integrity]], [[Availability]]. A weakness in any one undermines the overall security of a system, even if the other two are strong.
 

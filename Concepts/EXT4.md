@@ -1,4 +1,4 @@
-#type/concept #domain/os
+#domain/os
 
 # EXT4
 

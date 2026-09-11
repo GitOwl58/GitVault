@@ -1,4 +1,4 @@
-#type/concept #domain/security 
+#domain/security
 # IoT (Internet of Things)
 
 Network-connected physical devices (cameras, routers, smart home devices, industrial sensors) that communicate over a network, often with weak default security.

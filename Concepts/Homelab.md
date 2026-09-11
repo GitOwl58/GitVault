@@ -1,4 +1,4 @@
-#type/concept #domain/networking #domain/cloud-virtualisation #domain/hardware 
+#domain/networking #domain/cloud-virtualisation #domain/hardware
 
 
 ## Homelab

@@ -1,4 +1,4 @@
-#type/concept #domain/networking #domain/pentesting
+#domain/networking #domain/pentesting
 
 # Telnet
 
@@ -12,3 +12,4 @@ Plaintext remote terminal protocol — connects to any TCP port and lets you tal
 
 ### Source:
 [[12. Networking Concepts]]
+[[15. Networking Secure Protocols]]

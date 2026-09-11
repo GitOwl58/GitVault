@@ -2,7 +2,7 @@
 aliases:
   - Port
 ---
-#type/concept #domain/networking
+#domain/networking
 
 # Ports
 
