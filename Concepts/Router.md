@@ -13,3 +13,4 @@ Routers are the device where [[Port forwarding]] and [[Firewall]] rules actually
 [[16. Intro to LAN]]
 [[19. Extending your network]]
 [[12. Networking Concepts]]
+[[13. Networking Essentials]]

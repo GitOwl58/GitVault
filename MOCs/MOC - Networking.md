@@ -20,7 +20,7 @@ Hub for how devices find and talk to each other — from raw wiring topologies u
 ## Key concepts
 
 ### Core
-[[Networking]] · [[Internet]] · [[IP address]] · [[MAC address]] · [[ARP]] · [[DHCP]] · [[Switch]] · [[Router]] · [[Routing]] · [[OSI Model]] · [[TCP]] · [[UDP]] · [[ICMP]] · [[Packet]] · [[Frame]] · [[Encapsulation]] · [[Decapsulation]] · [[Header]] · [[Ports]] · [[TTL]] · [[TLD]] · [[VLAN]] · [[VPN]] · [[Port forwarding]] · [[Firewall]] · [[TCP-IP Model]] · [[Subnetting]] · [[NAT]] · [[Three-way handshake]]
+[[Networking]] · [[Internet]] · [[IP address]] · [[MAC address]] · [[ARP]] · [[DHCP]] · [[Switch]] · [[Router]] · [[Routing]] · [[Routing protocols]] · [[OSPF]] · [[EIGRP]] · [[BGP]] · [[RIP]] · [[OSI Model]] · [[TCP]] · [[UDP]] · [[ICMP]] · [[Packet]] · [[Frame]] · [[Encapsulation]] · [[Decapsulation]] · [[Header]] · [[Ports]] · [[TTL]] · [[TLD]] · [[VLAN]] · [[VPN]] · [[Port forwarding]] · [[Firewall]] · [[TCP-IP Model]] · [[Subnetting]] · [[NAT]] · [[Three-way handshake]]
 
 ### Services & remote access
 [[Server]] · [[RDP]] · [[SMB]] · [[SSH]] · [[FTP]] · [[Telnet]] · [[DNS]] · [[DNS Record]] · [[DNS Resolution]]
