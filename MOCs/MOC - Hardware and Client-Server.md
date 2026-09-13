@@ -1,4 +1,4 @@
-#type/moc #domain/hardware
+#domain/hardware
 
 # MOC — Hardware & Client-Server
 

@@ -1,4 +1,4 @@
-#type/moc #domain/cloud-virtualisation
+#domain/cloud-virtualisation
 
 # MOC — Cloud & Virtualisation
 

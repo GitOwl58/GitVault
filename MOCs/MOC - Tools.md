@@ -1,4 +1,4 @@
-#type/moc #domain/pentesting 
+#domain/pentesting
 # 🛠️ Tools MOC
 
 ## Lessons

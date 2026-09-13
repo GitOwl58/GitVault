@@ -1,4 +1,4 @@
-#type/moc #domain/security #domain/pentesting 
+#domain/security #domain/pentesting
 # MOC - Offensive and Defensive Security
 
 Hub for offensive and defensive security concepts and tooling — spanning the CIA Triad and cryptography fundamentals through penetration testing, red/blue teaming, and the practical tools used on both sides.
@@ -21,7 +21,7 @@ Hub for offensive and defensive security concepts and tooling — spanning the C
 ## Key concepts
 
 ### Foundations
-[[CIA Triad]] [[Confidentiality]] [[Integrity]] [[Availability]] [[Cryptography]] [[Certificate]]
+[[CIA Triad]] [[Confidentiality]] [[Integrity]] [[Availability]] [[Cryptography]] [[Certificate]] [[TLS]]
 
 ### Offensive
 [[Red teaming]] [[Penetration test]] [[Vulnerability]] [[Exploit]] [[Scope]] [[Dictionary attack]] [[Gobuster]] [[Hydra]] [[Wordlist]]
