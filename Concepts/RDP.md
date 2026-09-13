@@ -1,4 +1,4 @@
-#type/concept #domain/networking 
+#domain/networking
 
 
 Remote Desktop Protocol is a protocol used to establish remote graphical sessions over the network.

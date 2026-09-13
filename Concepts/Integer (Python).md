@@ -1,4 +1,4 @@
-#type/concept #domain/programming 
+#domain/programming
 # Integer (Python)
 
 **Integer** → A whole number (no decimal).

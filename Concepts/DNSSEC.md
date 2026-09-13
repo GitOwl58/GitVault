@@ -1,6 +1,6 @@
 # DNSSEC
 
-#domain/networking #domain/security #type/concept 
+#domain/networking #domain/security
 
 Cryptographic signing of DNS records, validated through a chain of trust from the root zone down to the domain (root → TLD → domain).
 

@@ -1,4 +1,4 @@
-#type/concept #domain/programming 
+#domain/programming
 # Strings (Python)
 
 **Strings** → A sequence of characters enclosed in quotes.

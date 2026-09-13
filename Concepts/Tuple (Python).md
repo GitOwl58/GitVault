@@ -1,4 +1,4 @@
-#type/concept #domain/programming
+#domain/programming
 
 # Tuple (Python)
 

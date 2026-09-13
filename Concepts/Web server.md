@@ -1,4 +1,4 @@
-#type/concept #domain/networking 
+#domain/networking
 ### Web server
 A web server is a software that listens for incoming connections and then utilises the protocol to deliver web content to its clients.
 **Popular web servers**

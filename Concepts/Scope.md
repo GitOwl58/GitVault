@@ -1,4 +1,4 @@
-#type/concept #domain/pentesting 
+#domain/pentesting
 
 # Scope
 The exact systems and actions allowed during a security test

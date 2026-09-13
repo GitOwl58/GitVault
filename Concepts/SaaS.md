@@ -1,4 +1,4 @@
-#type/concept #domain/cloud-virtualisation
+#domain/cloud-virtualisation
 
 # SaaS (Software as a Service)
 

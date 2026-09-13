@@ -1,4 +1,4 @@
-#type/concept #domain/os
+#domain/os
 
 # GUI (Graphical User Interface)
 

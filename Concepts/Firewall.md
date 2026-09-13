@@ -1,4 +1,4 @@
- #type/concept #domain/networking 
+#domain/networking
  
 A security tool, hardware or software that is used to filter network traffic by stopping unauthorized incoming and outgoing traffic.
 

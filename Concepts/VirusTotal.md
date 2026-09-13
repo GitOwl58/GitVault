@@ -1,5 +1,5 @@
 
-#type/concept  #domain/pentesting 
+#domain/pentesting
 
 # VirusTotal
 

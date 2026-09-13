@@ -1,5 +1,5 @@
 
-#type/concept #domain/networking
+#domain/networking
 
 # Encapsulation
 

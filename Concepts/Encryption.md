@@ -1,4 +1,4 @@
-#type/concept #domain/security
+#domain/security
 
 # Encryption
 

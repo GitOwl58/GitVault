@@ -1,4 +1,4 @@
-#type/concept #domain/programming 
+#domain/programming
 # argument (Python)
 
 **Argument** → A value passed to a function when it is called.

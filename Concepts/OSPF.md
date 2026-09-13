@@ -1,4 +1,4 @@
-#type/concept #domain/networking
+#domain/networking
 
 # OSPF (Open Shortest Path First)
 

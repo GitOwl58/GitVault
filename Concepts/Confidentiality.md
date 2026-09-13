@@ -1,4 +1,4 @@
-#type/concept #domain/security
+#domain/security
 
 The assurance that sensitive data is only accessible to those authorized to see it. Without it, unauthorized individuals can access private information, causing financial loss or privacy violations.
 Achieved through encryption and access controls.

@@ -1,4 +1,4 @@
-#type/concept #domain/security
+#domain/security
 
 The assurance that data and services remain accessible to authorized users when needed. Downtime, even short, can cause real business or operational loss.
 

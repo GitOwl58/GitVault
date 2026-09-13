@@ -1,4 +1,4 @@
-#type/concept #domain/os #domain/pentesting
+#domain/os #domain/pentesting
 
 # grep
 

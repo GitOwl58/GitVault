@@ -1,4 +1,4 @@
-#type/concept #domain/programming 
+#domain/programming
 # Float (Python)
 
 **loat** → A number with a decimal point.

@@ -1,4 +1,4 @@
-#type/concept #domain/programming 
+#domain/programming
 # Boolean (Python)
 
 **Boolean** → A data type with only two values: `True` or `False`.

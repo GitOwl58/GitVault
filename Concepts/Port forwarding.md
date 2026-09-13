@@ -1,4 +1,4 @@
-#type/concept #domain/networking 
+#domain/networking
 
 A technique that redirects network traffic arriving on a specific port of a public address to a specific machine and port inside a private network.
 
