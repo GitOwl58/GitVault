@@ -2,7 +2,7 @@
 
 # Router
 
-A device that connects separate networks and passes data between them using [[Routing]] — creating a path between networks so data is successfully delivered. Useful when devices are connected by many possible paths.
+A device that connects separate networks and passes data between them using [[Routing]], creating a path between networks so data is successfully delivered. Useful when devices are connected by many possible paths.
 
 Routers are the device where [[Port forwarding]] and [[Firewall]] rules actually get configured (via their admin interface).
 

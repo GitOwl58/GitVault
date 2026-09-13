@@ -6,8 +6,8 @@ aliases: [HTTPS]
 # HTTP / HTTPS
 **HyperText Transfer Protocol/Secure**
 
-Stateless client-server protocol used for the World Wide Web — each request is processed independently, without the server retaining information about previous requests.
-**HTTPS** adds encryption via [[TLS]] — a TCP handshake, then a TLS session, then HTTP is exchanged inside it.
+Stateless client-server protocol used for the World Wide Web: each request is processed independently, without the server retaining information about previous requests.
+**HTTPS** adds encryption via [[TLS]]: a TCP handshake, then a TLS session, then HTTP is exchanged inside it.
 
 A browser request shows: Scheme (HTTP/HTTPS), Host, Filename, [[IP address]], Status (e.g. "200 OK").
 ### Related :

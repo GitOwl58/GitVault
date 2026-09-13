@@ -2,7 +2,7 @@
 
 # DNS (Domain Name System)
 
-Translates human-readable domain names (e.g. `tryhackme.com`) into [[IP address]]es — easier to remember than raw IPs like `104.26.10.229`.
+Translates human-readable domain names (e.g. `tryhackme.com`) into [[IP address]]es: easier to remember than raw IPs like `104.26.10.229`.
 
 Operates at Layer 7 of the OSI Model, over port 53 (UDP, falling back to TCP).
 
