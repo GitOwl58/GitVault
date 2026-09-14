@@ -2,6 +2,12 @@
 
 <table>
   <tr>
+    <td align="center" colspan="2">
+      <img src="Screenshots/Dashboard_screenshot.png" width="800"/><br/>
+      <sub><b>Dashboard</b></sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="Screenshots/Obsidian_Graph.png" width="400"/><br/>
       <sub><b>Graph Overview</b></sub>
