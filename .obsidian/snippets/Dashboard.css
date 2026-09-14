@@ -1,0 +1,114 @@
+.gitvault-title {
+  text-align: center;
+  font-size: 2.6em;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  margin: 8px 0 28px 0;
+  color: #5b9bd5;
+}
+
+.dashboard-full-width.markdown-source-view.mod-cm6.is-readable-line-width .cm-content,
+.dashboard-full-width.markdown-source-view.mod-cm6.is-readable-line-width .cm-sizer,
+.dashboard-full-width.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+  max-width: 100% !important;
+}
+
+.dashboard-wrap {
+  margin-top: 16px;
+}
+
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.dashboard-card {
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 14px;
+  padding: 18px 20px 14px 20px;
+  max-height: 480px;
+  overflow-y: auto;
+}
+
+.dashboard-card h3 {
+  font-size: 0.72em;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  margin: 0 0 12px 0;
+}
+
+.dashboard-card:nth-child(1) h3 { color: #e8845f; }
+.dashboard-card:nth-child(2) h3 { color: #7fd4a8; }
+.dashboard-card:nth-child(3) h3 { color: #7ba7e0; }
+.dashboard-card:nth-child(4) h3 { color: #c98bd8; }
+.dashboard-card:nth-child(5) h3 { color: #dfc463; }
+
+.dashboard-card ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.dashboard-card li {
+  padding: 5px 0;
+  line-height: 1.35;
+}
+
+.dashboard-card li a.internal-link {
+  color: var(--text-normal) !important;
+  text-decoration: none !important;
+  font-size: 0.9em;
+  opacity: 0.9;
+}
+
+.dashboard-card li a.internal-link:hover {
+  color: var(--text-accent) !important;
+  opacity: 1;
+}
+
+.dashboard-card::-webkit-scrollbar {
+  width: 4px;
+}
+
+.dashboard-card::-webkit-scrollbar-thumb {
+  background: var(--background-modifier-border);
+  border-radius: 2px;
+}
+
+.dashboard-full-width .markdown-preview-view,
+.dashboard-full-width.markdown-preview-view {
+  background: radial-gradient(
+    circle at 20% 0%,
+    #2a2440 0%,
+    #1a1625 35%,
+    #14111d 70%,
+    #0e0c14 100%
+  ) !important;
+}
+.hide-properties .metadata-container {
+  display: none !important;
+}
+
+.dashboard-full-width .markdown-preview-view {
+  background: radial-gradient(
+    circle at 20% 0%,
+    #2a2440 0%,
+    #1a1625 35%,
+    #14111d 70%,
+    #0e0c14 100%
+  ) !important;
+}
+
+
+.dashboard-full-width.markdown-source-view .cm-scroller {
+  background: radial-gradient(
+    circle at 20% 0%,
+    #2a2440 0%,
+    #1a1625 35%,
+    #14111d 70%,
+    #0e0c14 100%
+  ) !important;
+}
