@@ -5,7 +5,7 @@ A security tool, hardware or software that is used to filter network traffic by 
 Operates in Layer 3 and 4 of the [[OSI Model]]
 
 ### Related :
-[[OSI Model]]  [[MAC address]]  [[Routing]]  [[CIA Triad]]  [[Ports|Port]]  [[Port forwarding]] [[Router]]  [[Web server]]
+[[OSI Model]]  [[MAC address]]  [[Routing]]  [[CIA Triad]]  [[Ports|Port]]  [[Port forwarding]] [[Router]]  [[Web server]] [[iptables]] [[TCP Wrappers]]
 
 ### Sources
 [[9. Operating System Security]]
@@ -15,3 +15,4 @@ Operates in Layer 3 and 4 of the [[OSI Model]]
 [[23. Putting it all together]]
 [[27. Become a Defender]]
 [[7. Windows Fundamentals Part.3]]
+[[26. Firewall Setup]]

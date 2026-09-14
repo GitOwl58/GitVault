@@ -4,6 +4,7 @@ A file system is the method an operating system uses to organize, store, and ret
 
 
 ### Related
-[[NTFS]] [[FAT32]] [[EXT4]] [[Permissions]] 
+[[NTFS]] [[FAT32]] [[EXT4]] [[Permissions]] [[Inode]] [[File System Hierarchy]]
 ### Source:
 [[5. Windows Fundamentals Part.1]]
+[[21. File System Management]]
