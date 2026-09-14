@@ -2,7 +2,8 @@
   "accentColor": "",
   "nativeMenus": false,
   "enabledCssSnippets": [
-    "graph view color fill"
+    "graph view color fill",
+    "Dashboard"
   ],
   "cssTheme": "AnuPpuccin",
   "showRibbon": true,
