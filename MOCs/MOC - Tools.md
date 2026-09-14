@@ -6,6 +6,9 @@
 - [[17. Tcpdump The Basics]]
 - [[18. Nmap The Basics]]
 
+## Packet Analysis
+- [[Wireshark]] — GUI packet capture/analysis, OSI-layer dissection, display filters
+
 ## Reconnaissance
 - [[Shodan]] — search engine for internet-connected devices
 - [[Nmap]] — network scanning/port discovery
