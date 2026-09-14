@@ -2,7 +2,7 @@
 
 # MOC — Networking
 
-Hub for how devices find and talk to each other — from raw wiring topologies up through the 7 OSI layers.
+Hub for how devices find and talk to each other, from raw wiring topologies up through the 7 OSI layers.
 
 ## Lessons
 - [[15. What is Networking]]
