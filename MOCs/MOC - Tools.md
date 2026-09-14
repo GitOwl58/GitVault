@@ -5,6 +5,7 @@
 - [[16. Wireshark The Basics]]
 - [[17. Tcpdump The Basics]]
 - [[18. Nmap The Basics]]
+- [[22. Containerization]]
 
 ## Packet Analysis
 - [[Wireshark]] — GUI packet capture/analysis, OSI-layer dissection, display filters
@@ -25,9 +26,14 @@
 ## Password Cracking
 - [[Hydra]] — online brute-forcing (vs offline tools like Hashcat)
 
+## Containers
+- [[Docker]] — image-based containerization, Dockerfiles, Docker Hub
+- [[LXC]] — lightweight OS-level Linux containers (cgroups, namespaces)
+
 ## Documentation / Reference
 - [[man pages]] — Linux command documentation
 - [[grep]] — search inside files for a word/pattern
+- [[sed]] — stream editor for text substitution
 
 ---
 ## Vulnerability
