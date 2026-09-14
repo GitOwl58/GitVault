@@ -17,13 +17,19 @@ Hub for how devices find and talk to each other, from raw wiring topologies up t
 - [[14. Networking Core Protocols]]
 - [[15. Networking Secure Protocols]]
 
+### HackTheBox — Linux Fundamentals
+- [[18. Network Services]]
+- [[19. Working with Web Services]]
+- [[23. Network Configuration]]
+- [[24. Remote Desktop Protocols in Linux]]
+
 ## Key concepts
 
 ### Core
 [[Networking]] · [[Internet]] · [[IP address]] · [[MAC address]] · [[ARP]] · [[DHCP]] · [[Switch]] · [[Router]] · [[Routing]] · [[Routing protocols]] · [[OSPF]] · [[EIGRP]] · [[BGP]] · [[RIP]] · [[OSI Model]] · [[TCP]] · [[UDP]] · [[ICMP]] · [[Packet]] · [[Frame]] · [[Encapsulation]] · [[Decapsulation]] · [[Header]] · [[Ports]] · [[TTL]] · [[TLD]] · [[VLAN]] · [[VPN]] · [[Port forwarding]] · [[Firewall]] · [[TCP-IP Model]] · [[Subnetting]] · [[NAT]] · [[Three-way handshake]]
 
 ### Services & remote access
-[[Server]] · [[RDP]] · [[SMB]] · [[SSH]] · [[SFTP]] · [[FTP]] · [[FTPS]] · [[Telnet]] · [[DNS]] · [[DNS Record]] · [[DNS Resolution]] · [[WHOIS]] · [[SMTP]] · [[POP3]] · [[IMAP]] · [[TLS]] · [[Certificate]]
+[[Server]] · [[RDP]] · [[SMB]] · [[SSH]] · [[SFTP]] · [[FTP]] · [[FTPS]] · [[Telnet]] · [[DNS]] · [[DNS Record]] · [[DNS Resolution]] · [[WHOIS]] · [[SMTP]] · [[POP3]] · [[IMAP]] · [[TLS]] · [[Certificate]] · [[NFS]] · [[VNC]] · [[Rsync]]
 
 ### The web
 [[HTTP]] · [[HTTP Headers]] · [[HTTP Status Codes]] · [[HTTP methods]] · [[URL]] · [[Cookie]] · [[Web server]] · [[CDN]] · [[Databases]] · [[HTML]] · [[CSS]] · [[XML]]

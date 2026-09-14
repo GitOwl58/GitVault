@@ -18,6 +18,11 @@ Hub for offensive and defensive security concepts and tooling, spanning the CIA 
 ### Defensive
 - [[27. Become a Defender]]
 
+### HackTheBox — Linux Fundamentals
+- [[25. Linux Security]]
+- [[26. Firewall Setup]]
+- [[27. System Logs]]
+
 ## Key concepts
 
 ### Foundations
@@ -27,7 +32,7 @@ Hub for offensive and defensive security concepts and tooling, spanning the CIA 
 [[Red teaming]] [[Penetration test]] [[Vulnerability]] [[Exploit]] [[Scope]] [[Dictionary attack]] [[Gobuster]] [[Hydra]] [[Wordlist]]
 
 ### Defensive
-[[Blue team]] [[Encryption]] [[EFS]] [[Least Privilege]] [[Permissions]] [[BitLocker]] [[TPM]] [[Volume Shadow Copy Service]] [[Firewall]]
+[[Blue team]] [[Encryption]] [[EFS]] [[Least Privilege]] [[Permissions]] [[BitLocker]] [[TPM]] [[Volume Shadow Copy Service]] [[Firewall]] [[iptables]] [[SELinux]] [[AppArmor]] [[TCP Wrappers]] [[Fail2ban]]
 
 ### Malware
 [[Malware]] [[Virus]] [[Trojan]] [[Ransomware]] [[Rootkit]] [[ADS]]

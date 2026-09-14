@@ -21,17 +21,40 @@ Hub for what an operating system does, how Windows and Linux differ, and OS-leve
 - [[10. Windows PowerShell]]
 - [[11. Linux Shells]]
 
+### HackTheBox — Linux Fundamentals
+- [[1. Linux Structure]]
+- [[2. Linux Distributions]]
+- [[3. Introduction to Shell]]
+- [[4. Prompt Description]]
+- [[5. Getting Help]]
+- [[6. System Information]]
+- [[7. Navigation]]
+- [[8. Working with Files and Directories]]
+- [[9. Find Files and Directories]]
+- [[10. File Descriptors and Redirections]]
+- [[11. Filter Contents]]
+- [[12. Regular Expressions]]
+- [[13. Permission Management]]
+- [[14. User Management]]
+- [[15. Package Management]]
+- [[16. Service and Process Management]]
+- [[17. Task Scheduling]]
+- [[20. Backup and Restore]]
+- [[21. File System Management]]
+- [[28. Solaris]]
+- [[29. Shortcuts]]
+
 
 ## Key concepts
 
 ### Core
-[[CLI]] · [[GUI]] · [[Windows]] · [[Linux]] · [[CIA Triad]] · [[systemd]] · [[PID]] · [[Environment Variables]] · [[Windows Registry]]
+[[CLI]] · [[GUI]] · [[Windows]] · [[Linux]] · [[CIA Triad]] · [[systemd]] · [[PID]] · [[Environment Variables]] · [[Windows Registry]] · [[Linux Kernel]] · [[Bootloader]] · [[Daemon]] · [[Cron]] · [[Vim]] · [[sudo]] · [[APT]] · [[Regular Expressions]] · [[sed]] · [[File Descriptor]]
 
 ### Shells & scripting
 [[bash]] · [[Fish]] · [[Zsh]] · [[PowerShell]] · [[Shebang]]
 
 ### File systems
-[[File System]] · [[NTFS]] · [[FAT32]] · [[EXT4]] · [[Journaling]] · [[EFS]]
+[[File System]] · [[NTFS]] · [[FAT32]] · [[EXT4]] · [[Journaling]] · [[EFS]] · [[File System Hierarchy]] · [[Inode]]
 
 ### Accounts & permissions
 [[Administrator]] · [[Permissions]] · [[Least Privilege]] · [[UAC User Account Control]]
