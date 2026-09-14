@@ -6,7 +6,7 @@
 - **AAAA**: resolves to an IPv6 address
 - **CNAME**: resolves to another domain name (needs its own lookup)
 - **MX**: resolves to mail servers, with priority for failover
-- **TXT**: free-text field — spam/spoof prevention (SPF, DMARC), domain ownership verification
+- **TXT**: free-text field, spam/spoof prevention (SPF, DMARC), domain ownership verification
 
 ### Related:
 [[DNS]]  [[TTL]]

@@ -2,7 +2,7 @@
 
 # Routing
 
-The process of data travelling across networks — determining the most optimal path. Happens at OSI [[OSI Model|Layer 3]] (Network). See [[Routing protocols]] for how routers actually share this info (OSPF, EIGRP, BGP, RIP).
+The process of data travelling across networks: determining the most optimal path. Happens at OSI [[OSI Model|Layer 3]] (Network). See [[Routing protocols]] for how routers actually share this info (OSPF, EIGRP, BGP, RIP).
 
 Factors deciding the route taken:
 - Shortest path (fewest devices)
