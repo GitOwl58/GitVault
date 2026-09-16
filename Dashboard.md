@@ -12,6 +12,7 @@ const sections = [
   { name: "Cyber Security 101", path: "Courses/TryHackMe/Cyber Security 101" },
   { name: "MOCs", path: "MOCs" },
   {name: "Python", path: "Courses/FreeCodecamp/Python"},
+  { name: "Linux Fundamentals", path: "Courses/HackTheBox/Linux Fundamentals" },
 ];
 
 function naturalSort(a, b) {
