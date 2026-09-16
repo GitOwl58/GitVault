@@ -42,6 +42,3 @@ Hub for offensive and defensive security concepts and tooling, spanning the CIA 
 
 ### Network attacks
 [[MITM]] [[ARP spoofing]] [[DNS spoofing]]
-
-## Certifications
-[[Certificates/Pre Security Certificate|Pre Security Certificate]]
