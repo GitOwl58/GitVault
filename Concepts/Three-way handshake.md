@@ -13,7 +13,9 @@ Each octet gets a sequence number so the receiver can detect lost/duplicated dat
 [[TCP]]
 [[UDP]]
 [[Encapsulation]]
+[[TCP Flags]]
 
 ### Source:
 [[18. Packets and Frames]]
 [[12. Networking Concepts]]
+[[17. Tcpdump The Basics]]

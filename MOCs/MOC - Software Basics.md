@@ -33,7 +33,7 @@ Hub for how data is represented and encoded under the hood, plus first steps in 
 
 
 ## Key concepts
-[[Bit]] · [[Byte]] · [[Binary]] · [[Hexadecimal]] · [[ASCII]] · [[Unicode]] · [[Python]] · [[Python3]] · [[Javascript]] · [[SQL]]
+[[Bit]] · [[Byte]] · [[Binary]] · [[Bitwise Operations]]· [[Hexadecimal]] · [[ASCII]] · [[Unicode]] · [[Python]] · [[Python3]] · [[Javascript]] · [[SQL]]
 #### Programming
 Data types: [[Integer (Python)]] · [[Float (Python)]] · [[Boolean (Python)]] · [[Strings (Python)]] · [[None (Python)]]
 
