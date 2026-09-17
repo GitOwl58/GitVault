@@ -9,6 +9,7 @@
 
 ## Packet Analysis
 - [[Wireshark]] — GUI packet capture/analysis, OSI-layer dissection, display filters
+- [[Tcpdump]] — CLI packet capture/analysis, scriptable, no GUI needed
 
 ## Reconnaissance
 - [[Shodan]] — search engine for internet-connected devices
