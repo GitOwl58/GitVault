@@ -9,8 +9,9 @@ Example: `1001` = 1×2³ + 0×2² + 0×2¹ + 1×2⁰ = **9**
 Used at [[OSI Model]] Layer 1 (Physical) to represent electrical signal states.
 
 ### Related
-[[Hexadecimal]]  [[Bit]]  [[FTP]]  
+[[Hexadecimal]]  [[Bit]]  [[FTP]]  [[Bitwise Operations]]
 
 ### Source:
 [[10. Data Representation]] 
 [[17. OSI Model]]
+[[17. Tcpdump The Basics]]

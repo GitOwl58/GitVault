@@ -8,7 +8,7 @@ Used for: file sharing, internet browsing, email — anything requiring accurate
 Operates in Layer 4 of the [[OSI Model]]
 
 ### Related:
-[[UDP]] [[CDN]] [[Header]] [[OSI Model]] [[Port forwarding]] [[Networking]] [[RDP]] [[SMB]] [[UDP]] [[Web server]]
+[[UDP]] [[CDN]] [[Header]] [[OSI Model]] [[Port forwarding]] [[Networking]] [[RDP]] [[SMB]] [[UDP]] [[Web server]] [[TCP Flags]]
 
 
 ## Source:
@@ -16,3 +16,4 @@ Operates in Layer 4 of the [[OSI Model]]
 [[18. Packets and Frames]]
 [[19. Extending your network]]
 [[12. Networking Concepts]]
+[[17. Tcpdump The Basics]]

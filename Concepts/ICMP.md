@@ -9,7 +9,8 @@ Syntax: `ping <IP address or website URL>`
 **traceroute** (`tracert` on Windows) also relies on ICMP: it sends packets with increasing [[TTL]], and each router that drops a TTL-expired packet replies with an **ICMP Time Exceeded** (Type 11), revealing itself, hop by hop, until the target is reached.
 
 ### Related
-[[IP address]] [[TTL]] [[Router]]
+[[IP address]] [[TTL]] [[Router]] [[Tcpdump]]
 ### Source:
 [[15. What is Networking]]
 [[13. Networking Essentials]]
+[[17. Tcpdump The Basics]]
