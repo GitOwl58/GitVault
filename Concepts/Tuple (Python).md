@@ -10,7 +10,7 @@ point = (3, 5)
 
 ### Related
 
-[[List (Python)]] [[Set (Python)]] [[Dictionary (Python]] [[indexing (Python)]] [[Variables (Python)]]
+[[List (Python)]] [[Set (Python)]] [[Dictionary (Python)]] [[indexing (Python)]] [[Variables (Python)]]
 
 ### Source:
 

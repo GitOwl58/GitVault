@@ -10,7 +10,7 @@ fruits = ["apple", "banana", "orange"]
 
 ### Related
 
-[[Tuple (Python)]] [[Set (Python)]] [[Dictionary (Python]] [[indexing (Python)]] [[Variables (Python)]]
+[[Tuple (Python)]] [[Set (Python)]] [[Dictionary (Python)]] [[indexing (Python)]] [[Variables (Python)]]
 
 ### Source:
 

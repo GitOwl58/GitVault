@@ -11,4 +11,4 @@ An attacker positioned on-path between two communicating parties, able to read a
 [[DNSSEC]]
 
 ### Source:
-[[DNS over TLS]]
+[[DNS over TLS (DoT)|DoT]]

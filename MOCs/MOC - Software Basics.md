@@ -22,7 +22,7 @@ Hub for how data is represented and encoded under the hood, plus first steps in 
 
 ### Workshop
 [[Build a bill splitter]]
-[[Build a Caesar sipher]]
+[[Build a Caesar cipher]]
 [[Build an RPG character]]
 [[Build a report card printer]]
 [[Build a travel weather planner]]

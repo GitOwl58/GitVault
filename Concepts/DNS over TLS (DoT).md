@@ -26,11 +26,7 @@ Same goal, different port/blending strategy. DoT = distinct port (853), easy to 
 - [[DNSSEC]] — authenticity of the DNS *data*, not the transport
 - [[DoH]]
 - [[DNS spoofing]] / [[MITM]] — the attack DoT's cert pinning defends against
-# DOT
-
-
 
 ### Related
 
 ### Source:
-[[DNS over TLS]]

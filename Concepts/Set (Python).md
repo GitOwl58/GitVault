@@ -10,7 +10,7 @@ colors = {"red", "blue", "green"}
 
 ### Related
 
-[[List (Python)]] [[Tuple (Python)]] [[Dictionary (Python]] [[Variables (Python)]]
+[[List (Python)]] [[Tuple (Python)]] [[Dictionary (Python)]] [[Variables (Python)]]
 
 ### Source:
 

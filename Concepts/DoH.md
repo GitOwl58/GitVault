@@ -20,4 +20,4 @@ Same core benefits as [[DoT]] — confidentiality of queries, resolver authentic
 - [[DNS over TLS (DoT)]]
 - [[DNSSEC]]
 ### Source:
-[[DNS over TLS]]
+[[DNS over TLS (DoT)|DoT]]
