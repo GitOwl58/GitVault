@@ -7,4 +7,4 @@ The server that runs [[Active directory]] services for a [[Windows domain]]. It 
 ### Related
 [[Active directory]] [[Windows domain]] [[Security Groups]] [[Group Policy Object]] [[Kerberos]]
 ### Source:
-[[8. Active Directory Basics]]
+[[08. Active Directory Basics]]

@@ -11,9 +11,9 @@ On-demand computing resources (servers, storage, networking) delivered over the 
 [[Hypervisor]] · [[VM]] · [[Container]] [[IaaS]] · [[PaaS]] · [[SaaS]]
 
 ### Source:
-[[3. Virtualisation basics]]
-[[4. Cloud computing fundamentals]] 
-[[5. Operating Systems Introduction]]
+[[03. Virtualisation basics]]
+[[04. Cloud computing fundamentals]] 
+[[05. Operating Systems Introduction]]
 
 ### Books
 [[CompTIA IT Fundamentals (ITF+) Study Guide]]

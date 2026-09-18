@@ -14,5 +14,5 @@ Default shell/scripting language on Linux and macOS: text-based, pipes plain tex
 
 ## Source
 [[11. Linux Shells]]
-[[3. Introduction to Shell]]
+[[03. Introduction to Shell]]
 [[29. Shortcuts]]

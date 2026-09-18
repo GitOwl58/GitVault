@@ -8,11 +8,11 @@ Operates in Layer 3 and 4 of the [[OSI Model]]
 [[OSI Model]]  [[MAC address]]  [[Routing]]  [[CIA Triad]]  [[Ports|Port]]  [[Port forwarding]] [[Router]]  [[Web server]] [[iptables]] [[TCP Wrappers]]
 
 ### Sources
-[[9. Operating System Security]]
+[[09. Operating System Security]]
 [[15. What is Networking]]
 [[16. Intro to LAN]]
 [[19. Extending your network]]
 [[23. Putting it all together]]
 [[27. Become a Defender]]
-[[7. Windows Fundamentals Part.3]]
+[[07. Windows Fundamentals Part.3]]
 [[26. Firewall Setup]]

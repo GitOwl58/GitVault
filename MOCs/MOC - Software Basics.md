@@ -13,16 +13,16 @@ Hub for how data is represented and encoded under the hood, plus first steps in 
 - [[13. Javascript simple demo]]
 - [[14. Database SQL Basics]]
 #### freeCodeCamp
-[[1. What is Python ?]]
-[[2. Understanding Variables and Data types]]
-[[3. Introduction to strings]]
-[[4. Numbers and mathematical operations]]
-[[5. Booleans and conditionals]]
-[[6. Understanding functions and scope]]
+[[01. What is Python ?]]
+[[02. Understanding Variables and Data types]]
+[[03. Introduction to strings]]
+[[04. Numbers and mathematical operations]]
+[[05. Booleans and conditionals]]
+[[06. Understanding functions and scope]]
 
 ### Workshop
 [[Build a bill splitter]]
-[[Build a Caesar sipher]]
+[[Build a Caesar cipher]]
 [[Build an RPG character]]
 [[Build a report card printer]]
 [[Build a travel weather planner]]

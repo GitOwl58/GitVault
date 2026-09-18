@@ -6,4 +6,4 @@ A feature of NTFS allowing files to contain multiple hidden data streams alongsi
 ### Related
 [[NTFS]] [[Malware]] [[File System]]
 ### Source:
-[[5. Windows Fundamentals Part.1]]
+[[05. Windows Fundamentals Part.1]]

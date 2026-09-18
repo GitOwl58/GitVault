@@ -38,7 +38,7 @@
 
 ---
 ## Vulnerability
-[[CVE]] Programme keeping tracks off all publicly disclosed vulnerabilities.
+[[CVE]] Programme keeping track off all publicly disclosed vulnerabilities.
 [[POC]] — proof of concept code demonstrating a vulnerability is exploitable.
 ## Related
 [[MOC - Offensive and Defensive Security]]

@@ -7,4 +7,4 @@ A central hierarchical database that stores the configuration Windows needs for 
 ### Related
 [[Windows]] [[Environment Variables]]
 ### Source:
-[[6. Windows Fundamentals Part.2]]
+[[06. Windows Fundamentals Part.2]]

@@ -23,6 +23,6 @@ Open-source network scanner, first published in 1997. Discovers which hosts on a
 
 [[MOC - Offensive and Defensive Security]]
 
-[[1. Search skills]]
+[[01. Search skills]]
 
 [[18. Nmap The Basics]]

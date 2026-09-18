@@ -8,4 +8,4 @@ You rent basic computing resources (virtual servers, storage, Networking). You m
 [[PaaS]] · [[SaaS]] [[Cloud]] [[Networking]]
 
 ### Source:
-[[4. Cloud computing fundamentals]]
+[[04. Cloud computing fundamentals]]

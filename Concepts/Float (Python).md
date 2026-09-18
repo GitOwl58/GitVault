@@ -1,7 +1,7 @@
 #domain/programming
 # Float (Python)
 
-**loat** → A number with a decimal point.
+**Float** → A number with a decimal point.
 
 ```python
 pi = 3.14

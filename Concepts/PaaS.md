@@ -8,4 +8,4 @@ The provider manages the infrastructure and OS. You focus on building, deploying
 [[IaaS]] · [[SaaS]]  [[Cloud]]  
 
 ### Source:
-[[4. Cloud computing fundamentals]]
+[[04. Cloud computing fundamentals]]

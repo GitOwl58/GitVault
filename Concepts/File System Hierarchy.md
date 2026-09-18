@@ -8,4 +8,4 @@ The FHS (Filesystem Hierarchy Standard) defines Linux's standard top-level direc
 [[File System]] [[Linux Kernel]]
 
 ### Source:
-[[1. Linux Structure]]
+[[01. Linux Structure]]

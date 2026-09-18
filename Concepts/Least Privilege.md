@@ -6,4 +6,4 @@ A security principle stating that users, programs, and systems should only have 
 ### Related
 [[Permissions]]  [[Administrator]] [[CIA Triad]]
 ### Source:
-[[5. Windows Fundamentals Part.1]]
+[[05. Windows Fundamentals Part.1]]

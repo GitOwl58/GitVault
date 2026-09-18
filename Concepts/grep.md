@@ -13,7 +13,7 @@ Searches inside a file for a word or pattern and prints the matching line(s): th
 [[sed]]
 
 ### Source:
-[[2. Linux Fundamentals Part.1]]
+[[02. Linux Fundamentals Part.1]]
 [[11. Linux Shells]]
 [[11. Filter Contents]]
 [[12. Regular Expressions]]

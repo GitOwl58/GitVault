@@ -6,4 +6,4 @@ In the context of operating systems, PID stands for Process ID. It is a unique i
 ### Related
 
 ### Source:
-[[4. Linux Fundamentals Part.3]]
+[[04. Linux Fundamentals Part.3]]

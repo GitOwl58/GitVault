@@ -8,4 +8,4 @@ The fourth extended file system — the default journaling [[File System]] on mo
 [[File System]] [[Journaling]] [[NTFS]] [[FAT32]] [[Linux]]
 
 ### Source:
-[[2. Linux Fundamentals Part.1]]
+[[02. Linux Fundamentals Part.1]]

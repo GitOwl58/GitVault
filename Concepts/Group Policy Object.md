@@ -9,4 +9,4 @@ GPOs are distributed to domain machines via **SYSVOL**, a network share that by 
 ### Related
 [[Domain Controller]] [[Active directory]] [[Organizational Unit]]
 ### Source:
-[[8. Active Directory Basics]]
+[[08. Active Directory Basics]]

@@ -22,4 +22,4 @@ Cryptographic signing of DNS records, validated through a chain of trust from th
 - [[DoH]]
 - [[DNS spoofing]] / [[MITM]]
 ### Source:
-[[DNS over TLS]]
+[[DNS over TLS (DoT)|DoT]]

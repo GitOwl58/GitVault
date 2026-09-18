@@ -6,7 +6,7 @@ The three core properties information security aims to protect: [[Confidentialit
 [[Confidentiality]] [[Integrity]] [[Availability]] [[Firewall]]  [[Certificate]]  [[Cryptography]]  
 
 ### Sources :
-[[9. Operating System Security]]
+[[09. Operating System Security]]
 [[24. The CIA Triad]]
 
 ### Books

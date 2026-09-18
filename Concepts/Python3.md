@@ -6,4 +6,4 @@ Third major version of the Python programming language. Invoked with `python3` t
 ### Related
 [[CLI]] [[HTTP]] 
 ### Source:
-[[4. Linux Fundamentals Part.3]]
+[[04. Linux Fundamentals Part.3]]

@@ -14,7 +14,7 @@ A browser request shows: Scheme (HTTP/HTTPS), Host, Filename, [[IP address]], St
 [[HTTP methods]]  [[HTTP Status Codes]]  [[OSI Model]]  [[IP address]]  [[CDN]]  [[Cookie]]  [[DNS]]  [[Ports|Port]]  [[URL]]  [[Web server]]  [[Certificate]]  [[Cryptography]]
 
 ### Source: 
-[[2. Client-server Basics]] · 
+[[02. Client-server Basics]] · 
 [[17. OSI Model]]
 [[18. Packets and Frames]]
 [[21. HTTP in detail]]

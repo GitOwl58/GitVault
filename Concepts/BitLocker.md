@@ -7,4 +7,4 @@ A Windows data-protection feature that encrypts an entire drive, guarding agains
 ### Related
 [[TPM]] [[Encryption]] [[Windows]]
 ### Source:
-[[7. Windows Fundamentals Part.3]]
+[[07. Windows Fundamentals Part.3]]

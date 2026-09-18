@@ -8,4 +8,4 @@ The core of the Linux operating system: virtualizes and controls hardware resour
 [[bash]] [[Daemon]] [[Bootloader]]
 
 ### Source:
-[[1. Linux Structure]]
+[[01. Linux Structure]]

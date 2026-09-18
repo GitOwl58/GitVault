@@ -8,5 +8,5 @@ A background service in Linux, typically named with a trailing "d" (`sshd`, `sys
 [[Linux Kernel]] [[systemd]]
 
 ### Source:
-[[1. Linux Structure]]
+[[01. Linux Structure]]
 [[16. Service and Process Management]]

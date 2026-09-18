@@ -9,4 +9,4 @@ Unlike an [[Organizational Unit]] (used to apply policies to a set of accounts),
 ### Related
 [[Active directory]] [[Organizational Unit]] [[Domain Controller]] [[Permissions]]
 ### Source:
-[[8. Active Directory Basics]]
+[[08. Active Directory Basics]]
