@@ -10,7 +10,7 @@ Hub for offensive and defensive security concepts and tooling, spanning the CIA 
 ### Foundations
 - [[24. The CIA Triad]]
 - [[25. Cryptography concepts]]
-- [[1. Search skills]]
+- [[01. Search skills]]
 
 ### Offensive
 - [[26. Become a Hacker]]

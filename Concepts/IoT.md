@@ -8,6 +8,6 @@ Network-connected physical devices (cameras, routers, smart home devices, indust
 - [[MOC - Offensive and Defensive Security]]
 
 ## Mentioned in
-[[1. Computer types]]
-[[5. Operating Systems Introduction]]
-[[1. Search skills]]
+[[01. Computer types]]
+[[05. Operating Systems Introduction]]
+[[01. Search skills]]

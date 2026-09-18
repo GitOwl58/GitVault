@@ -8,10 +8,10 @@ Microsoft's OS — most widely used on personal computers (desktop: Windows 10/1
 [[Linux]]
 
 ### Source:
-[[5. Operating Systems Introduction]]
-[[6. Windows Basics]]
-[[8. Windows CLI Basics]]
-[[5. Windows Fundamentals Part.1]]
-[[6. Windows Fundamentals Part.2]]
-[[7. Windows Fundamentals Part.3]]
-[[8. Active Directory Basics]]
+[[05. Operating Systems Introduction]]
+[[06. Windows Basics]]
+[[08. Windows CLI Basics]]
+[[05. Windows Fundamentals Part.1]]
+[[06. Windows Fundamentals Part.2]]
+[[07. Windows Fundamentals Part.3]]
+[[08. Active Directory Basics]]

@@ -6,5 +6,5 @@ The assurance that data and services remain accessible to authorized users when 
 [[CIA Triad]] [[Confidentiality]] [[Integrity]]
 
 ### Sources :
-[[9. Operating System Security]]
+[[09. Operating System Security]]
 [[24. The CIA Triad]]

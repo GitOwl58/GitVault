@@ -6,4 +6,4 @@ The highest privilege account type on a local Windows system. Can add/remove use
 ### Related
 [[Permissions]]  [[Least Privilege]]  [[Windows]]
 ### Source:
-[[5. Windows Fundamentals Part.1]]
+[[05. Windows Fundamentals Part.1]]

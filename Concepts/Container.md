@@ -10,8 +10,8 @@ Deployed most commonly via **[[Docker]]**, or via **[[LXC]]** for lighter-weight
 [[VM]]  [[Cloud]]  [[Hypervisor]]  [[Docker]]  [[LXC]]
 
 ### Source:
-[[3. Virtualisation basics]] 
-[[5. Operating Systems Introduction]]
+[[03. Virtualisation basics]] 
+[[05. Operating Systems Introduction]]
 [[22. Containerization]]
 
 ### Projects

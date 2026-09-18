@@ -14,4 +14,4 @@ fruits = ["apple", "banana", "orange"]
 
 ### Source:
 
-[[2. Understanding Variables and Data types]]
+[[02. Understanding Variables and Data types]]

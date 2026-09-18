@@ -8,12 +8,12 @@ Protocol for securely logging into systems via a text-based interface, port 22; 
 ### Related:
 [[RDP]] [[FTP]] [[SFTP]] [[Networking]] [[Ports|Port]] [[Port forwarding]] [[Telnet]] [[TLS]] [[VNC]] [[Rsync]]
 ### Source:
-[[7. Linux CLI Basics]] 
+[[07. Linux CLI Basics]] 
 [[18. Packets and Frames]]
 [[19. Extending your network]]
-[[3. Linux Fundamentals Part.2]]
-[[4. Linux Fundamentals Part.3]]
+[[03. Linux Fundamentals Part.2]]
+[[04. Linux Fundamentals Part.3]]
 [[15. Networking Secure Protocols]]
-[[6. System Information]]
+[[06. System Information]]
 [[18. Network Services]]
 [[24. Remote Desktop Protocols in Linux]]

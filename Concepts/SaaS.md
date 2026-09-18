@@ -8,4 +8,4 @@ You use a complete application over the internet. The provider manages everythin
 [[IaaS]] · [[PaaS]]  [[Cloud]]
 
 ### Source:
-[[4. Cloud computing fundamentals]]
+[[04. Cloud computing fundamentals]]

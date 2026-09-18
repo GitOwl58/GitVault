@@ -9,4 +9,4 @@ The kernel's handle for an I/O connection (Windows: filehandle). Every process g
 
 ### Source:
 [[10. File Descriptors and Redirections]]
-[[9. Find Files and Directories]]
+[[09. Find Files and Directories]]

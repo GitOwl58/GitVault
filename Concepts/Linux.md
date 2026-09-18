@@ -9,12 +9,12 @@ Not a single OS but a family of open-source distributions (Ubuntu, Debian, Fedor
 [[Windows]] 
 
 ### Source:
-[[3. Virtualisation basics]]
-[[5. Operating Systems Introduction]]
-[[7. Linux CLI Basics]]
-[[2. Linux Fundamentals Part.1]]
-[[3. Linux Fundamentals Part.2]]
-[[4. Linux Fundamentals Part.3]]
+[[03. Virtualisation basics]]
+[[05. Operating Systems Introduction]]
+[[07. Linux CLI Basics]]
+[[02. Linux Fundamentals Part.1]]
+[[03. Linux Fundamentals Part.2]]
+[[04. Linux Fundamentals Part.3]]
 [[11. Linux Shells]]
 
 ### Books:

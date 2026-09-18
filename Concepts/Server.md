@@ -8,11 +8,11 @@ A server is ==a computer or software program that stores data and **serves** it 
 [[Web server]]
 
 ### Sources :
-[[1. Computer types]]
-[[2. Client-server Basics]]
-[[3. Virtualisation basics]]
-[[4. Cloud computing fundamentals]]
-[[5. Operating Systems Introduction]]
+[[01. Computer types]]
+[[02. Client-server Basics]]
+[[03. Virtualisation basics]]
+[[04. Cloud computing fundamentals]]
+[[05. Operating Systems Introduction]]
 [[16. Intro to LAN]]
 
 ### Books

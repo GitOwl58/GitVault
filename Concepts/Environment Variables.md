@@ -6,4 +6,4 @@ Key-value pairs stored by the operating system containing information about the 
 ### Related
 [[Windows]]  [[CLI]]  
 ### Source:
-[[5. Windows Fundamentals Part.1]]
+[[05. Windows Fundamentals Part.1]]

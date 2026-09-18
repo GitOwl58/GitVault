@@ -6,4 +6,4 @@ File Allocation Table — older file system, predecessor to NTFS. 4GB maximum fi
 ### Related
 [[File System]] [[NTFS]]
 ### Source:
-[[5. Windows Fundamentals Part.1]]
+[[05. Windows Fundamentals Part.1]]

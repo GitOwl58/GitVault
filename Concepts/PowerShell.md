@@ -11,7 +11,7 @@ Windows' command-line shell and scripting language, built on .NET — object-ori
 [[ADS]]
 
 ### Source:
-[[5. Windows Fundamentals Part.1]]
-[[6. Windows Basics]]
-[[8. Active Directory Basics]]
+[[05. Windows Fundamentals Part.1]]
+[[06. Windows Basics]]
+[[08. Active Directory Basics]]
 [[10. Windows PowerShell]]

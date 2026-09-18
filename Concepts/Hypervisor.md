@@ -11,7 +11,7 @@ Software that creates and manages [[VM]]s — divides a physical computer into m
 [[VM]] · [[Container]] · [[Cloud]]
 
 ### Source:
-[[3. Virtualisation basics]]
+[[03. Virtualisation basics]]
 
 ### Projects:
 [[Homelab setup]]

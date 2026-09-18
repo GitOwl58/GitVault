@@ -12,7 +12,7 @@ Works alongside MAC address via ARP. Used at OSI model Layer 3 for Routing. Grow
 ### Related
 [[MAC address]]  [[ARP]] [[OSI Model]]  [[Routing]]  [[DHCP]] [[DNS]]  [[Header]]  [[HTTP]]  [[ICMP]] [[Internet]]  [[Networking]]  [[Ports|Port]]  [[Switch]]  [[URL]]
 ### Source:
-[[2. Client-server Basics]]
+[[02. Client-server Basics]]
 [[15. What is Networking]] ·
 [[16. Intro to LAN]] ·
 [[17. OSI Model]]

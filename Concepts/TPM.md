@@ -7,4 +7,4 @@ A dedicated hardware crypto-processor built to perform cryptographic operations 
 ### Related
 [[BitLocker]] [[Windows]] [[Encryption]]
 ### Source:
-[[7. Windows Fundamentals Part.3]]
+[[07. Windows Fundamentals Part.3]]

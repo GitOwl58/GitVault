@@ -6,4 +6,4 @@ A Windows security feature that prevents silent privilege escalation. Even Admin
 ### Related
 [[Least Privilege]] [[Administrator]] [[Windows]] [[Malware]] [[Permissions]]
 ### Source:
-[[5. Windows Fundamentals Part.1]]
+[[05. Windows Fundamentals Part.1]]

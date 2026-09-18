@@ -8,4 +8,4 @@ The piece of code that runs first to guide a system's boot process and hand off 
 [[Linux Kernel]] [[Parrot OS]]
 
 ### Source:
-[[1. Linux Structure]]
+[[01. Linux Structure]]

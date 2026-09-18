@@ -8,4 +8,4 @@ A powerful, modal text editor (an improved *Vi*) that delegates specialized task
 [[bash]]
 
 ### Source:
-[[8. Working with Files and Directories]]
+[[08. Working with Files and Directories]]

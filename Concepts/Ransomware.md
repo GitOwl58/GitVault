@@ -8,4 +8,4 @@ A type of [[Malware]] that encrypts a victim's files (or locks them out of their
 [[Malware]] [[Trojan]] [[Virus]] [[Confidentiality]] [[Availability]] [[Volume Shadow Copy Service]]
 
 ### Source:
-[[7. Windows Fundamentals Part.3]]
+[[07. Windows Fundamentals Part.3]]

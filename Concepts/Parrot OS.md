@@ -8,5 +8,5 @@ A Debian-based Linux distribution focused on security, privacy, and development:
 [[APT]] [[Bootloader]]
 
 ### Source:
-[[1. Linux Structure]]
-[[2. Linux Distributions]]
+[[01. Linux Structure]]
+[[02. Linux Distributions]]

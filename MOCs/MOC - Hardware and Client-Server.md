@@ -5,8 +5,8 @@
 Hub for computer types and how clients/servers talk to each other over the web.
 
 ## Lessons
-- [[1. Computer types]]
-- [[2. Client-server Basics]]
+- [[01. Computer types]]
+- [[02. Client-server Basics]]
 
 ## Key concepts
 [[HTTP]] · [[IP address]] [[Server]]

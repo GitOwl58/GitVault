@@ -7,5 +7,5 @@ Achieved through encryption and access controls.
 [[CIA Triad]] [[Integrity]] [[Availability]] [[Cryptography]]
 
 ### Sources :
-[[9. Operating System Security]]
+[[09. Operating System Security]]
 [[24. The CIA Triad]]

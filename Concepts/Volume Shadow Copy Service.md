@@ -9,4 +9,4 @@ Security relevance: ransomware often specifically looks for and deletes shadow c
 ### Related
 [[Ransomware]] [[Windows]] [[Malware]]
 ### Source:
-[[7. Windows Fundamentals Part.3]]
+[[07. Windows Fundamentals Part.3]]

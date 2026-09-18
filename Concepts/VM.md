@@ -8,8 +8,8 @@ A virtual computer created by a [[Hypervisor]], acting like a real machine — i
 [[Container]] [[Hypervisor]] [[Linux]] [[Cloud]] [[Concepts/Homelab]]
 
 ### Source: 
-[[3. Virtualisation basics]] 
-[[5. Operating Systems Introduction]]
+[[03. Virtualisation basics]] 
+[[05. Operating Systems Introduction]]
 
 ### Books
 [[CompTIA IT Fundamentals (ITF+) Study Guide]]

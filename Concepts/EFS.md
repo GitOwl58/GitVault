@@ -6,4 +6,4 @@ Encryption File System — a feature of NTFS that allows individual files and fo
 ### Related
 [[NTFS]]  [[Encryption]] [[File System]]
 ### Source:
-[[5. Windows Fundamentals Part.1]]
+[[05. Windows Fundamentals Part.1]]

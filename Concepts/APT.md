@@ -10,5 +10,5 @@ Common commands: `apt-cache search <term>` (search the local cache), `apt-cache 
 [[Parrot OS]]
 
 ### Source:
-[[2. Linux Distributions]]
+[[02. Linux Distributions]]
 [[15. Package Management]]

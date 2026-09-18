@@ -18,5 +18,5 @@ Resolving the host to an [[IP address]] is handled via [[DNS]].
 [[HTTP]] · [[DNS]] · [[TLD]] · [[Ports]] [[IP address]] [[Networking]] [[Web server]] 
 
 ### Source:
-[[2. Client-server Basics]] 
+[[02. Client-server Basics]] 
 [[21. HTTP in detail]]

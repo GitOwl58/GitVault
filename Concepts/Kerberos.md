@@ -14,4 +14,4 @@ Superseded **NetNTLM** as the default, which is now kept only for legacy compati
 ### Related
 [[Domain Controller]] [[Active directory]] [[Encryption]]
 ### Source:
-[[8. Active Directory Basics]]
+[[08. Active Directory Basics]]
