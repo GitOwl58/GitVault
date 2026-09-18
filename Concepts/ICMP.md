@@ -14,3 +14,4 @@ Syntax: `ping <IP address or website URL>`
 [[15. What is Networking]]
 [[13. Networking Essentials]]
 [[17. Tcpdump The Basics]]
+[[18. Nmap The Basics]]

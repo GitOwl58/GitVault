@@ -19,3 +19,4 @@ Each octet gets a sequence number so the receiver can detect lost/duplicated dat
 [[18. Packets and Frames]]
 [[12. Networking Concepts]]
 [[17. Tcpdump The Basics]]
+[[18. Nmap The Basics]]
