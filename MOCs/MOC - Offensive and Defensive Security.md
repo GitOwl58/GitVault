@@ -29,10 +29,10 @@ Hub for offensive and defensive security concepts and tooling, spanning the CIA 
 [[CIA Triad]] [[Confidentiality]] [[Integrity]] [[Availability]] [[Cryptography]] [[Certificate]] [[TLS]]
 
 ### Offensive
-[[Red teaming]] [[Penetration test]] [[Vulnerability]] [[Exploit]] [[Scope]] [[Dictionary attack]] [[Gobuster]] [[Hydra]] [[Wordlist]]
+[[Red teaming]] [[Penetration test]] [[Vulnerability]] [[Exploit]] [[Scope]] [[Dictionary attack]] [[Gobuster]] [[Hydra]] [[Wordlist]] [[Nmap]] [[Port Scan]] [[OS Fingerprinting]]
 
 ### Defensive
-[[Blue team]] [[Encryption]] [[EFS]] [[Least Privilege]] [[Permissions]] [[BitLocker]] [[TPM]] [[Volume Shadow Copy Service]] [[Firewall]] [[iptables]] [[SELinux]] [[AppArmor]] [[TCP Wrappers]] [[Fail2ban]]
+[[Blue team]] [[Encryption]] [[EFS]] [[Least Privilege]] [[Permissions]] [[BitLocker]] [[TPM]] [[Volume Shadow Copy Service]] [[Firewall]] [[iptables]] [[SELinux]] [[AppArmor]] [[TCP Wrappers]] [[Fail2ban]] [[IDS]]
 
 ### Malware
 [[Malware]] [[Virus]] [[Trojan]] [[Ransomware]] [[Rootkit]] [[ADS]]
