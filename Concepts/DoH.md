@@ -5,7 +5,7 @@
 DNS resolution tunneled inside HTTPS, over the same **port 443** used for normal web traffic.
 
 ## What it protects
-Same core benefits as [[DoT]] — confidentiality of queries, resolver authenticity via TLS.
+Same core benefits as [[DNS over TLS (DoT)|DoT]] — confidentiality of queries, resolver authenticity via TLS.
 
 ## Key difference from DoT
 - **Blends in** — indistinguishable from regular HTTPS traffic on the wire, so it's much harder to block or censor
