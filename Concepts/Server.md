@@ -19,4 +19,4 @@ A server is ==a computer or software program that stores data and **serves** it 
 [[CompTIA IT Fundamentals (ITF+) Study Guide]]
 
 ### Projects
-[[Homelab setup]]
+[[Homelab Setup]]

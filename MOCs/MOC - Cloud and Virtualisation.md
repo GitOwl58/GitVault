@@ -7,9 +7,12 @@ Hub for how physical hardware gets divided up and rented out — VMs, containers
 ## Lessons
 - [[03. Virtualisation basics]]
 - [[04. Cloud computing fundamentals]]
-- [[Workshop/Homelab|Homelab]]
+- See all content from Homelabbing folder.
 ## Key concepts
 [[Cloud]] · [[Hypervisor]] · [[VM]] · [[Container]] · [[IaaS]] · [[PaaS]] · [[SaaS]] · [[Concepts/Homelab|Homelab]]
+
+## Homelab
+[[Homelab Setup]] is the practical build-it hub, see it for the full breakdown: [[Homelab Hardware Tiers]] · [[Homelab Physical Setup]] · [[Proxmox]] · [[Homelab Networking Basics]] · [[Self-Hosted Service Stack]] · [[Homelab Backups and Maintenance]] · [[Homelab Common Mistakes]]
 
 ## Related MOCs
 [[MOC - OS Basics]] · [[MOC - Networking]]

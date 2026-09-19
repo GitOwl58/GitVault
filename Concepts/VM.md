@@ -14,5 +14,5 @@ A virtual computer created by a [[Hypervisor]], acting like a real machine — i
 ### Books
 [[CompTIA IT Fundamentals (ITF+) Study Guide]]
 ### Projects
-[[Homelab setup]]
+[[Homelab Setup]]
 [[Near future]]

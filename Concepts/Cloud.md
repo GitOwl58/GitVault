@@ -19,4 +19,4 @@ On-demand computing resources (servers, storage, networking) delivered over the 
 [[CompTIA IT Fundamentals (ITF+) Study Guide]]
 
 ### Project
-[[Homelab setup]]
+[[Homelab Setup]]

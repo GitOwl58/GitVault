@@ -11,4 +11,4 @@ A homelab is a personal, at-home computing and networking environment used to ex
 Source:
 
 ### Projects
-[[Homelab setup]]
+[[Homelab Setup]]
