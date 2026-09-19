@@ -71,14 +71,7 @@
       }
     },
     {
-      "query": "tag:#type/butler_journal  ",
-      "color": {
-        "a": 1,
-        "rgb": 550926
-      }
-    },
-    {
-      "query": "tag:#individual  ",
+      "query": "tag:#domain/homelab",
       "color": {
         "a": 1,
         "rgb": 11730944
@@ -95,6 +88,6 @@
   "repelStrength": 7.88806120394604,
   "linkStrength": 0.896919669820817,
   "linkDistance": 30,
-  "scale": 0.5055486700890293,
+  "scale": 0.49040639837969685,
   "close": true
 }
