@@ -19,7 +19,7 @@ The pattern that shows up across almost every homelab, regardless of budget: a *
 
 ---
 ### Start small
-The single most repeated advice across every homelab writeup: don't overthink the first build. You don't need a rack, 10G networking, or ECC RAM on day one. A used office PC or even an old laptop with **[[Private/Homelabbing/Concepts/Docker]]** on it is enough to learn the fundamentals. Upgrade when you hit an actual limitation, a slow transcode, running out of RAM, needing more drive bays, not before, based on a limitation you imagine you'll have.
+The single most repeated advice across every homelab writeup: don't overthink the first build. You don't need a rack, 10G networking, or ECC RAM on day one. A used office PC or even an old laptop with **[[Docker]]** on it is enough to learn the fundamentals. Upgrade when you hit an actual limitation, a slow transcode, running out of RAM, needing more drive bays, not before, based on a limitation you imagine you'll have.
 
 A homelab is meant to grow with you. Typical arc: single cheap machine running a handful of containers → get used to run, maintain, troubleshoot your first issues → a proper NAS for storage → a dedicated hypervisor host → a second host and clustering → VLANs and a real firewall once something is exposed to the internet → monitoring and automation once there's enough to keep track of. 
 Or maybe stay at Stage 1, just running a cheap machine because all you want is a media server, a password manager, and you are not interested in Proxmox, VMs, etc etc...
@@ -28,7 +28,7 @@ Or maybe stay at Stage 1, just running a cheap machine because all you want is a
 Beyond the skills (Linux, Docker, networking, virtualization), a homelab teaches troubleshooting under real constraints in a way tutorials can't: something breaks, you don't know why, and you have to actually figure it out. It also tends to pay for itself in avoided subscriptions as long as you don't all in on a professional-grade brand new server and 100 TB storage (media server instead of streaming fees, self-hosted password manager, ad blocking, etc.), though that's a side benefit, not really the point.
 
 ### Related  ///Module is not finished, many deadlinks linking to contents in a draft folder///
-[[Homelab]] [[Homelab Hardware Tiers]] [[Homelab Physical Setup]] [[Proxmox]] [[Homelab Networking Basics]] [[Self-Hosted Service Stack]] [[Homelab Backups and Maintenance]] [[Homelab Common Mistakes]] [[Private/Homelabbing/Concepts/Docker]] [[Docker Compose]] [[Container]] [[Private/Homelabbing/Concepts/LXC]] [[Router]] [[Switch]] [[Firewall]] [[NAS]] [[Hypervisor]]
+[[Homelab]] [[Homelab Hardware Tiers]] [[Homelab Physical Setup]] [[Proxmox]] [[Homelab Networking Basics]] [[Self-Hosted Service Stack]] [[Homelab Backups and Maintenance]] [[Homelab Common Mistakes]] [[Docker]] [[Docker Compose]] [[Container]] [[LXC]] [[Router]] [[Switch]] [[Firewall]] [[NAS]] [[Hypervisor]]
 
 ### Source:
 Compiled data from external homelab guides, will be updated, checked for errors regularly...

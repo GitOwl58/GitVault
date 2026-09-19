@@ -17,10 +17,4 @@ Not a single OS but a family of open-source distributions (Ubuntu, Debian, Fedor
 [[04. Linux Fundamentals Part.3]]
 [[11. Linux Shells]]
 
-### Books:
-[[Linux for Beginners]]
-[[The Linux Command Line]]
 
-### Projects
-[[Daily Linux routine]]
-[[Near future]]

@@ -14,6 +14,3 @@ Commands differ by OS: see [[07. Linux CLI Basics]] and [[08. Windows CLI Basics
 [[05. Operating Systems Introduction]]
 [[07. Linux CLI Basics]]
 [[08. Windows CLI Basics]]
-
-### Books
-[[The Linux Command Line]]

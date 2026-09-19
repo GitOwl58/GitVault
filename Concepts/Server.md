@@ -15,8 +15,6 @@ A server is ==a computer or software program that stores data and **serves** it 
 [[05. Operating Systems Introduction]]
 [[16. Intro to LAN]]
 
-### Books
-[[CompTIA IT Fundamentals (ITF+) Study Guide]]
 
 ### Projects
 [[Homelab Setup]]

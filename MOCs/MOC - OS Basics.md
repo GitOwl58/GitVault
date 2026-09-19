@@ -62,8 +62,6 @@ Hub for what an operating system does, how Windows and Linux differ, and OS-leve
 ### Active Directory
 [[Windows domain]] · [[Active directory]] · [[Domain Controller]] · [[Security Groups]] · [[Group Policy Object]] · [[Organizational Unit]] · [[Kerberos]]
 
-## Field notes
-[[Field-notes/Daily Linux routine|Daily Linux routine]]
 
 ## Related MOCs
 [[MOC - Cloud and Virtualisation]] · [[MOC - Hardware and Client-Server]]

@@ -20,16 +20,6 @@ Hub for how data is represented and encoded under the hood, plus first steps in 
 [[05. Booleans and conditionals]]
 [[06. Understanding functions and scope]]
 
-### Workshop
-[[Build a bill splitter]]
-[[Build a Caesar cipher]]
-[[Build an RPG character]]
-[[Build a report card printer]]
-[[Build a travel weather planner]]
-[[Build an apply discount function]]
-[[Build an employee profile generator]]
-[[Build a movie ticket booking calculator]]
-
 
 
 ## Key concepts
