@@ -15,8 +15,7 @@ On-demand computing resources (servers, storage, networking) delivered over the 
 [[04. Cloud computing fundamentals]] 
 [[05. Operating Systems Introduction]]
 
-### Books
-[[CompTIA IT Fundamentals (ITF+) Study Guide]]
+
 
 ### Project
-[[Homelab setup]]
+[[Homelab Setup]]

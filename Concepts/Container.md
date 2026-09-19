@@ -15,4 +15,4 @@ Deployed most commonly via **[[Docker]]**, or via **[[LXC]]** for lighter-weight
 [[22. Containerization]]
 
 ### Projects
-[[Homelab setup]]
+[[Homelab Setup]]

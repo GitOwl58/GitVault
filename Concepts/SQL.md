@@ -10,5 +10,3 @@ Core keywords: `SELECT` (what to display) · `FROM` (where data comes from) · `
 ### Source:
 [[14. Database SQL Basics]]
 
-### Books
-[[CompTIA IT Fundamentals (ITF+) Study Guide]]

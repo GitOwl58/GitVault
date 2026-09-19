@@ -9,5 +9,4 @@ The three core properties information security aims to protect: [[Confidentialit
 [[09. Operating System Security]]
 [[24. The CIA Triad]]
 
-### Books
-[[CompTIA IT Fundamentals (ITF+) Study Guide]]
+]]

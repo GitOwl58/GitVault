@@ -30,6 +30,7 @@
 ## Containers
 - [[Docker]] — image-based containerization, Dockerfiles, Docker Hub
 - [[LXC]] — lightweight OS-level Linux containers (cgroups, namespaces)
+- Self-hosted app catalog (Plex, Jellyfin, Vaultwarden, Tailscale, and 25+ more, organized by category): see [[Homelab Setup]] → [[Self-Hosted Service Stack]] → the `Containers/` subfolder
 
 ## Documentation / Reference
 - [[man pages]] — Linux command documentation
@@ -38,8 +39,8 @@
 
 ---
 ## Vulnerability
-[[CVE]] Programme keeping track off all publicly disclosed vulnerabilities.
+[[CVE]] Programme keeping tracks off all publicly disclosed vulnerabilities.
 [[POC]] — proof of concept code demonstrating a vulnerability is exploitable.
 ## Related
 [[MOC - Offensive and Defensive Security]]
-[[Workshop/Homelab|Homelab]]
+[[Homelab]]
