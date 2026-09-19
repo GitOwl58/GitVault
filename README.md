@@ -1,9 +1,10 @@
+
 # GitOwl58 Obsidian Vault Complete CyberSecurity Beginners.
 
 <table>
   <tr>
     <td align="center" colspan="2">
-      <img src="Screenshots/Dashboard_screenshot.png" width="800"/><br/>
+      <img src="Screenshots/dashboard_1.1.png" width="800"/><br/>
       <sub><b>Dashboard</b></sub>
     </td>
   </tr>
@@ -49,5 +50,7 @@ Vault.
 It is only aimed at complete beginners, as it is reviewing basics 
 and will be slowly updated, as fast as my personal life lets me.
 
+Thank you to all contributors, more knowledgeable, taking time to help and correct's this vault's content.
+
 I hope this will be able to help, even if it is just one person, 
-toenjoy learning Cyber Security as much as I enjoy creating this.
+to enjoy learning Cyber Security as much as I enjoy creating this.
