@@ -14,4 +14,4 @@ Software that creates and manages [[VM]]s — divides a physical computer into m
 [[03. Virtualisation basics]]
 
 ### Projects:
-[[Homelab setup]]
+[[Homelab Setup]]
