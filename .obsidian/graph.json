@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#domain/pentesting",
@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 11730944
       }
+    },
+    {
+      "query": "tag:#resource/book  ",
+      "color": {
+        "a": 1,
+        "rgb": 4786148
+      }
     }
   ],
   "collapse-display": true,
@@ -88,6 +95,6 @@
   "repelStrength": 7.88806120394604,
   "linkStrength": 0.896919669820817,
   "linkDistance": 30,
-  "scale": 0.24193350855783688,
-  "close": false
+  "scale": 0.4196494425777666,
+  "close": true
 }

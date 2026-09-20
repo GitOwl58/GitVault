@@ -3,7 +3,8 @@
   "nativeMenus": false,
   "enabledCssSnippets": [
     "graph view color fill",
-    "Dashboard"
+    "Dashboard",
+    "Main tag node color"
   ],
   "cssTheme": "AnuPpuccin",
   "showRibbon": true,

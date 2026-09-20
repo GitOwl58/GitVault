@@ -44,13 +44,21 @@
 
 I published this repo to help any complete beginner like me to 
 start learning Cyber Security basics.
+
+All you will find here are my personal notes taken from the lessons I currently follow,
+I will not post flags, answers, or questions from active or retired content, certification 
+exams.
+
+AI is not used to Download, copy, index, compile any data, any web page or public/private
+ressource, but only to check some typos as I do mispell quite often in english.
 		
 The structure of this repo is designed to be used with Obsidian 
 Vault.
-It is only aimed at complete beginners, as it is reviewing basics 
-and will be slowly updated, as fast as my personal life lets me.
+It is only aimed at complete beginners, as it is reviewing basics and will be slowly
+ updated, as fast as my personal life lets me.
 
-Thank you to all contributors, more knowledgeable, taking time to help and correct's this vault's content.
+Thank you to all contributors, more knowledgeable, taking time to help and correct's
+this vault's content.
 
 I hope this will be able to help, even if it is just one person, 
 to enjoy learning Cyber Security as much as I enjoy creating this.
