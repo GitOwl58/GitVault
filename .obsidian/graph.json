@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": true,
@@ -57,7 +57,7 @@
       }
     },
     {
-      "query": "path:Litterature  ",
+      "query": "path:Ressources  ",
       "color": {
         "a": 1,
         "rgb": 4262364
@@ -83,11 +83,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.67513589691967,
   "lineSizeMultiplier": 0.359452385745923,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.600563720555667,
   "repelStrength": 7.88806120394604,
   "linkStrength": 0.896919669820817,
   "linkDistance": 30,
-  "scale": 0.4568147912147428,
-  "close": true
+  "scale": 0.24193350855783688,
+  "close": false
 }
