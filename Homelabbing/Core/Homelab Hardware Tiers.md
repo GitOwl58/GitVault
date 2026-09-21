@@ -17,7 +17,7 @@ Best for: apartments, shared living spaces, anyone who values quiet over raw pow
 ### Tier 3: Used office PCs (€80-300)
 Dell OptiPlex, HP EliteDesk, Lenovo ThinkCentre. Businesses cycle these out by the thousands every 3-5 years, so they show up on eBay, Backmarket (not necessarily recommended), Rebuy, and local refurbishers for not much money. An OptiPlex 7040/7060 or ThinkCentre M920 with an i5, 16-32GB RAM, and an SSD handles pretty much anything a beginner throws at it. Idle draw: 40-80W.
 
-Best for: the best balance of price, performance, and upgradeability, the recommended starting point for most people if confortable buying second hand, browsing Ebay etc...
+Best for: the best balance of price, performance, and upgradeability, the recommended starting point for most people if comfortable buying second hand, browsing Ebay etc...
 
 ### Tier 4: Used enterprise servers (€60-1000+)
 Dell PowerEdge, HP ProLiant, Lenovo ThinkServer. Xeon CPUs, tons of RAM slots, hardware **[[RAID]]** controllers, built to run 24/7 in a server closet so they're genuinely tanks. Barebones older-generation units (R210/R320/R630-class) can be found for €60-300 without RAM/CPU, while a fully configured R730/R640-class server with dual Xeons and 32-64GB RAM (DDR4 of course) lands more like €600-1200+ from EU server resellers. Downsides: loud (small high-RPM fans), power-hungry (100-200W+ idle on older models), heavy. Not a good starting point unless there's a basement, garage, or attic to put it in.
