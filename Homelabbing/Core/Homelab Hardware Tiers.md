@@ -47,13 +47,13 @@ Rule of thumb: idle wattage × 0.0288 × 24 × 30 ≈ rough monthly cost at the 
 - **Storage**: matters less if a **[[NAS]]** handles bulk data, a single SSD for the OS/hypervisor is fine on the compute box itself.
 
 ### Where to buy used
-In Europe: eBay.de/eBay.fr/eBay.it (best for hunting a specific model across the whole continent), Rebuy (graded, warrantied refurbished stock, slightly pricier but lower risk), local classifieds (Marktplaats, Leboncoin, Vinted for smaller gear, Kleinanzeigen), dedicated EU server resellers (for enterprise gear specifically) and local e-waste/business-liquidation recyclers.
+In Europe: Ebay (best for hunting a specific model across all Europe), Rebuy (graded, warrantied refurbished stock, slightly pricier but lower risk), local classifieds (Marktplaats, Leboncoin, Vinted for smaller gear, Kleinanzeigen), dedicated EU server resellers (for enterprise gear specifically) and local e-waste/business-liquidation recyclers.
 
 ### A real example
-One build: a used Lenovo ThinkServer for around €150, Xeon E3-1226 v3 (4 cores), 32GB RAM, 2TB HDD. Enough for 15-20 containers comfortably, and having run 24/7 in an office for years before resale, it's built for exactly this kind of continuous duty.
+One build: a used Lenovo ThinkServer for around €250, Xeon E3-1226 v3 (4 cores), 32GB RAM, 2TB HDD. Enough for 15-20 containers comfortably, and having run 24/7 in an office for years before resale, it's built for exactly this kind of continuous duty.
 
 ### Related
 [[Homelab Setup]] [[Homelab Physical Setup]] [[Proxmox]] [[Docker]] [[NAS]] [[RAID]] [[Pi-hole]]
 
 ### Source:
-Compiled data from external homelab guides, will be updated, checked for errors regularly...
+Compiled data from external homelab guides, and my homelab.

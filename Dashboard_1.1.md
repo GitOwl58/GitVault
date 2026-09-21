@@ -13,7 +13,7 @@ const sections = [
   { name: "Courses", path: "Courses" },
   { name: "MOCs", path: "MOCs" },
   { name: "Homelabbing", path: "Homelabbing" },
-  { name: "Ressources", path: "Ressources" },
+  { name: "Resources", path: "Resources" },
 ];
 
 if (!document.getElementById("dv11-dashboard-style")) {

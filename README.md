@@ -50,7 +50,7 @@ I will not post flags, answers, or questions from active or retired content, cer
 exams.
 
 AI is not used to Download, copy, index, compile any data, any web page or public/private
-ressource, but only to check some typos as I do mispell quite often in english.
+resource, but only to check some typos as I do mispell quite often in english.
 		
 The structure of this repo is designed to be used with Obsidian 
 Vault.

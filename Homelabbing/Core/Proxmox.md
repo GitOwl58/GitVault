@@ -2,8 +2,7 @@
 
 # Proxmox
 
-I do not use Proxmox (yet), as I personally find joy in running Docker containers, on a Debian server, it is minimalist, reliable, and my homelab usage so far does not require such architecture... Plus I do enjoy building my own network, doing my updates, etc.
-But I cover it on it's own full size note as it is very talked about recently, and maybe something I will come to use some day.
+I have not yet used Proxmox, as I personally find joy in running Docker containers on a bare Debian server, it is minimalist, reliable, and my homelab usage so far does not require such architecture, but I decided to incorporate it in my homelab and give it a try.
 
 **Proxmox VE** (Virtual Environment) is a free, open-source virtualization platform built on **KVM** (full VMs) and **[[LXC]]** (lightweight OS-level containers), the default most homelabbers converge on after outgrowing plain **[[Docker]]**. As of late 2026 the current stable branch is **Proxmox VE 9.2** (released in May 2026), running on kernel 7.0.
 

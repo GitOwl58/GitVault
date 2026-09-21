@@ -58,7 +58,7 @@ cd /opt/stacks/infra && docker compose pull && docker compose up -d
 Snapshot before running this, not after, so a bad update is a rollback, not a rebuild.
 
 ### Monitoring
-Keeping an eye on what's running matters as much as backing it up. **Uptime Kuma** gives simple, clean uptime/status checks for services. **Prometheus + Grafana + Node Exporter** gives deeper host and container-level metrics and dashboards. Heavier alternatives exist for larger or more "enterprise-flavored" setups: **Zabbix** and **Checkmk RAW** (free tier), both more complex to set up but more full-featured for larger environments.
+Keeping an eye on what's running matters as much as backing it up. **Uptime Kuma** gives simple, clean uptime/status checks for services. **Prometheus + Grafana + Node Exporter** gives deeper host and container-level metrics and dashboards. Heavier alternatives exist for larger or more enterprise style setups: **Zabbix** and **Checkmk RAW** (free), both more complex to set up but more full-featured for large environments.
 
 ### Troubleshooting cheat-sheet
 | Command                              | Use                                       |
@@ -79,4 +79,4 @@ Keeping an eye on what's running matters as much as backing it up. **Uptime Kuma
 [[Homelab Setup]] [[Proxmox]] [[Docker]] [[Self-Hosted Service Stack]] [[NAS]] [[RAID]] [[ZFS]]
 
 ### Source:
-Compiled data from external homelab guides, will be updated, checked for errors regularly...
+Compiled data from external homelab guides and my homelab.

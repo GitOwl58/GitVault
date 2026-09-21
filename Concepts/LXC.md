@@ -12,5 +12,5 @@ Linux Containers: virtualizes multiple isolated Linux systems on one host using 
 
 ### Source:
 [[22. Containerization]]
-Homelab additions synthesized from external homelab guides, not a course lesson, drafted for review before merging into the vault (this note already exists in the vault under `Concepts/LXC.md`, this version merges the existing course content with the homelab additions, drop-in replacement rather than a fresh file).
+
 

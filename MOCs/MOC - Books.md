@@ -23,7 +23,7 @@ Books on this topic are very niche, at least that's how I feel after looking for
 [[The Linux Command Line]] ·
 [[How Linux Works]]
 [[Mastering Proxmox]]  
-[[Proxmox VE 9 Practical Guide]]      A very good ressource is simply the Proxmox wiki.
+[[Proxmox VE 9 Practical Guide]]      A very good resource is simply the Proxmox wiki.
 
 ## Beginner Certifications
 
