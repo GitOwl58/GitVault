@@ -169,3 +169,9 @@ dv.paragraph(html);
 
 
 
+
+
+
+
+
+[[dashboard_1.1.png]] [[graph_groups.png]] [[Obsidian_Graph.png]] [[restricted_mode.png]] [[settings.png]] [[README]]

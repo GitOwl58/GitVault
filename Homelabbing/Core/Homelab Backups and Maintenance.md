@@ -79,4 +79,4 @@ Keeping an eye on what's running matters as much as backing it up. **Uptime Kuma
 [[Homelab Setup]] [[Proxmox]] [[Docker]] [[Self-Hosted Service Stack]] [[NAS]] [[RAID]] [[ZFS]]
 
 ### Source:
-Compiled data from external homelab guides and my homelab.
+Synthesized from external homelab guides and my homelab setup.

@@ -147,4 +147,4 @@ Clients (phones, laptops, browsers) → reverse proxy (handles the domain name a
 [[Homelab Setup]] [[Docker]] [[Docker Compose]] [[Proxmox]] [[Container]] [[Homelab Networking Basics]] [[Reverse Proxy]] [[NFS]] [[NAS]] [[Media Servers]] [[Media Management (Arr Stack)]] [[Password Managers]] [[VPNs and Remote Access]] [[Infrastructure and Management]] [[Monitoring]] [[Network-wide Ad Blocking]] [[Smart Home]] [[Photos and Files]] [[Miscellaneous]]
 
 ### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.
+Synthesized from external homelab guides and my homelab setup.

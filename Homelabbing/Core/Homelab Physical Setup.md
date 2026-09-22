@@ -43,4 +43,4 @@ Equipment kept in an air-conditioned, low-dust room may not need active cooling 
 [[Homelab Setup]] [[Homelab Hardware Tiers]] [[Router]] [[Switch]] [[UPS]] [[Rack Unit]]
 
 ### Source:
-Compiled data from external homelab guides, will be updated, checked for errors regularly...
+Synthesized from external homelab guides and my homelab setup.

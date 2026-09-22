@@ -5,7 +5,7 @@
 A virtual computer created by a [[Hypervisor]], acting like a real machine — its own virtual CPU, RAM, storage, network. Can run any OS ([[Linux]], [[Windows]]). Completely isolated from other VMs.
 
 ### Related:
-[[Container]] [[Hypervisor]] [[Linux]] [[Cloud]] [[Concepts/Homelab]]
+[[Container]] [[Hypervisor]] [[Linux]] [[Cloud]] [[Homelab]]
 
 ### Source: 
 [[03. Virtualisation basics]] 

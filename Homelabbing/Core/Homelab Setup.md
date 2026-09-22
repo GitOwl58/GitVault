@@ -33,4 +33,4 @@ Beyond the skills (Linux, Docker, networking, virtualization), a homelab teaches
 [[Homelab]] [[Homelab Hardware Tiers]] [[Homelab Physical Setup]] [[Proxmox]] [[Homelab Networking Basics]] [[Self-Hosted Service Stack]] [[Homelab Backups and Maintenance]] [[Homelab Common Mistakes]] [[Docker]] [[Docker Compose]] [[Container]] [[LXC]] [[Router]] [[Switch]] [[Firewall]] [[NAS]] [[Hypervisor]]
 
 ### Source:
-Setting up my own homelab, compiled data from external guides.
+Synthesized from external homelab guides and my homelab setup.

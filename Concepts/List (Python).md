@@ -2,7 +2,7 @@
 
 # List (Python)
 
-**List** → An ordered, mutable collection of items.
+An ordered, mutable collection of items.
 
 ```python
 fruits = ["apple", "banana", "orange"]

@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#domain/pentesting",
@@ -85,16 +85,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.67513589691967,
+  "nodeSizeMultiplier": 0.996581769436997,
   "lineSizeMultiplier": 0.359452385745923,
   "collapse-forces": true,
-  "centerStrength": 0.600563720555667,
+  "centerStrength": 0.615113941018767,
   "repelStrength": 7.88806120394604,
   "linkStrength": 0.896919669820817,
   "linkDistance": 30,
-  "scale": 0.4196494425777666,
-  "close": true
+  "scale": 0.4276187492649371,
+  "close": false
 }

@@ -50,14 +50,14 @@ I will not post flags, answers, or questions from active or retired content, cer
 exams.
 
 AI is not used to Download, copy, index, compile any data, any web page or public/private
-resource, but only to check some typos as I do mispell quite often in english.
+resource, but only to check some typos as I do misspell quite often in english.
 		
 The structure of this repo is designed to be used with Obsidian 
 Vault.
 It is only aimed at complete beginners, as it is reviewing basics and will be slowly
  updated, as fast as my personal life lets me.
 
-Thank you to all contributors, more knowledgeable, taking time to help and correct's
+Thank you to all contributors, more knowledgeable, taking time to help and correct
 this vault's content.
 
 I hope this will be able to help, even if it is just one person, 

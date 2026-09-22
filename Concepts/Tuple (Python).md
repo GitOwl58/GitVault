@@ -2,7 +2,7 @@
 
 # Tuple (Python)
 
-**Tuple** → An ordered, immutable collection of items.
+An ordered, immutable collection of items.
 
 ```python
 point = (3, 5)

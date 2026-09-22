@@ -33,5 +33,5 @@ Almost every item above comes down to the same root cause: moving faster than th
 [[Homelab Setup]] [[Homelab Backups and Maintenance]] [[Homelab Networking Basics]] [[Self-Hosted Service Stack]] [[RAID]] [[NAS]]
 
 ### Source:
-Compiled data from external homelab guides, will be updated, checked for errors regularly...
+Synthesized from external homelab guides and my homelab setup.
 

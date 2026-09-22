@@ -1,7 +1,7 @@
 #domain/programming
 # function (Python)
 
-**Function** → A reusable block of code that performs a task.
+A reusable block of code that performs a task.
 
 ```python
 def greet():
@@ -9,5 +9,8 @@ def greet():
 ```
 
 ### Related
+[[argument (Python)]]  [[Scope (Python)]]  [[None (Python)]]
 
 ### Source:
+[[02. Understanding Variables and Data types]]
+[[11. Understanding functions and scope]]

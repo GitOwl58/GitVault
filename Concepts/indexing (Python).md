@@ -9,8 +9,6 @@ Indexing is how you access individual characters (or elements) in a string by th
 - Negative indices count from the end: `-1` is the last character, `-2` the second-to-last.
 - Use `len()` to get a string's length — the count of characters, not a position.
 
-python
-
 ```python
 my_str = "Hello world"
 
@@ -22,9 +20,6 @@ my_str[-2]      # l
 ```
 
 Strings are **immutable** — you can reassign the variable to a new string, but you can't modify a string in place via indexing.
-
-python
-
 ```python
 greeting = 'hi'
 greeting = 'hello'          # OK — reassignment
@@ -32,3 +27,9 @@ print(greeting)             # hello
 
 greeting[0] = 'H'           # TypeError: 'str' object does not support item assignment
 ```
+
+### Related
+[[Strings (Python)]]  [[slicing (Python)]]  [[List (Python)]]  [[Tuple (Python)]]
+
+### Source:
+[[04. Introduction to strings]]

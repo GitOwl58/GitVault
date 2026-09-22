@@ -56,4 +56,4 @@ One build: a used Lenovo ThinkServer for around €250, Xeon E3-1226 v3 (4 cores
 [[Homelab Setup]] [[Homelab Physical Setup]] [[Proxmox]] [[Docker]] [[NAS]] [[RAID]] [[Pi-hole]]
 
 ### Source:
-Compiled data from external homelab guides, and my homelab.
+Synthesized from external homelab guides and my homelab setup.

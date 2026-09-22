@@ -49,4 +49,4 @@ Proxmox sits in the middle: more capable than a Docker-only OS, more approachabl
 [[Homelab Setup]] [[Homelab Hardware Tiers]] [[Container]] [[LXC]] [[Docker]] [[VM]] [[Hypervisor]] [[ZFS]] [[NAS]]
 
 ### Source:
-Compiled data from external homelab guides, will be updated, checked for errors regularly...
+Synthesized from external homelab guides and my homelab setup.

@@ -1,7 +1,7 @@
 #domain/programming
 # Dictionary (Python)
 
-**Dictionary** → A collection of key-value pairs.
+A collection of key-value pairs.
 
 ```python
 person = {"name": "Alice", "age": 20}
@@ -9,5 +9,7 @@ person = {"name": "Alice", "age": 20}
 
 
 ### Related
+[[List (Python)]]  [[Set (Python)]]  [[Tuple (Python)]]  [[Variables (Python)]]
 
 ### Source:
+[[02. Understanding Variables and Data types]]

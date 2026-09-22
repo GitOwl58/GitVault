@@ -15,10 +15,16 @@ Hub for how data is represented and encoded under the hood, plus first steps in 
 #### freeCodeCamp
 [[01. What is Python ?]]
 [[02. Understanding Variables and Data types]]
-[[03. Introduction to strings]]
-[[04. Numbers and mathematical operations]]
-[[05. Booleans and conditionals]]
-[[06. Understanding functions and scope]]
+[[03.  Workshop Report card printer]]
+[[04. Introduction to strings]]
+[[05. Workshop Employee profile generator]]
+[[06. Numbers and mathematical operations]]
+[[07. Workshop Bill spliter]]
+[[08. Booleans and conditionals]]
+[[09. Workshop Movie ticket booking calculator]]
+[[10. Workshop Travel weather planner]]
+[[11. Understanding functions and scope]]
+[[12. Workshop Apply discount function]]
 
 
 

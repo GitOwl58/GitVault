@@ -34,10 +34,10 @@ When something isn't working, it helps to troubleshoot in layers, from bottom to
 This way of questioning (can I reach it at all ? can I reach the specific service ?) resolves a large share, but not all, of troubleshooting quickly.
 
 ### Remote access, briefly
-Reaching the homelab from outside the home network is its own topic (see **[[Self-Hosted Service Stack]]**), but in short: **[[WireGuard]]** run directly, is fast and fully self-hosted but needs manual key management and, usually, port forwarding on the router (Not recommended for beginners, unlinke what many beginner homelab guides will suggest, at least in my opinion...). **Tailscale** wraps WireGuard with automatic key exchange and NAT traversal (no port forwarding needed in most cases), trading a small amount of self-hosting purity for a much easier and safer setup, a common and reasonable choice for a first remote-access setup.
+Reaching the homelab from outside the home network is its own topic (see **[[Self-Hosted Service Stack]]**), but in short: **[[WireGuard]]** run directly, is fast and fully self-hosted but needs manual key management and, usually, port forwarding on the router (Not recommended for beginners, unlike what many beginner homelab guides will suggest, at least in my opinion...). **Tailscale** wraps WireGuard with automatic key exchange and NAT traversal (no port forwarding needed in most cases), trading a small amount of self-hosting purity for a much easier and safer setup, a common and reasonable choice for a first remote-access setup.
 
 ### Related ///Module is not finished, many deadlinks linking to contents in a draft folder///
 [[Homelab Setup]] [[Router]] [[Switch]] [[DHCP]] [[Subnetting]] [[VLAN]] [[IP address]] [[OSI Model]] [[Firewall]] [[WireGuard]]
 
 ### Source:
-Compiled data from external homelab guides, will be updated, checked for errors regularly...
+Synthesized from external homelab guides and my homelab setup.

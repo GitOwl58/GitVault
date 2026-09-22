@@ -2,7 +2,7 @@
 
 # Set (Python)
 
-**Set** → An unordered collection of unique values.
+An unordered collection of unique values.
 
 ```python
 colors = {"red", "blue", "green"}
