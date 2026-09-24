@@ -42,23 +42,25 @@
 
 # Who is this for ?
 
-I published this repo to help any complete beginner like me to 
-start learning Cyber Security basics.
+I published this repo to help all complete beginners like me to 
+start learning Cyber Security basics, Homelabbing and Programming.
 
-All you will find here are my personal notes taken from the lessons I currently follow,
+You will find here my personal notes taken from the lessons I currently follow,
 I will not post flags, answers, or questions from active or retired content, certification 
 exams.
 
 AI is not used to Download, copy, index, compile any data, any web page or public/private
-resource, but only to check some typos as I do misspell quite often in english.
+resource, but only to check typos once in a while as I do mispell quite often in english.
 		
 The structure of this repo is designed to be used with Obsidian 
-Vault.
-It is only aimed at complete beginners, as it is reviewing basics and will be slowly
- updated, as fast as my personal life lets me.
+Vault, but as the nature of Obsidian is tu use .md notes, it can be used with any note 
+taking app at the cost of maybe not being able to use links, footnotes, etc...
+It is aimed at complete beginners, as it is reviewing basics and will be slowly updated,
+ as fast as my personal life allows me.
 
-Thank you to all contributors, more knowledgeable, taking time to help and correct
-this vault's content.
+Thank you to all contributors, more knowledgeable, taking time to help, correct
+this vault's content, you are greatly appreciated.
 
 I hope this will be able to help, even if it is just one person, 
-to enjoy learning Cyber Security as much as I enjoy creating this.
+to enjoy learning Cyber Security, Homelabbing and programming as much as I enjoy creating
+ this.
