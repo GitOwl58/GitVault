@@ -25,6 +25,10 @@ Hub for how data is represented and encoded under the hood, plus first steps in 
 [[10. Workshop Travel weather planner]]
 [[11. Understanding functions and scope]]
 [[12. Workshop Apply discount function]]
+[[13. Workshop Caesar cipher]]
+[[14. Workshop RPG Character]]
+
+
 
 
 
