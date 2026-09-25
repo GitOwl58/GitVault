@@ -1,4 +1,4 @@
-#resource/book #domain/certifications #domain/cybersecurity
+#resource/book #type/certifications #domain/cybersecurity
 
 # CompTIA Security+ Get Certified Get Ahead
 

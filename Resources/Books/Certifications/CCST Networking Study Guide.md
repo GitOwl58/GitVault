@@ -1,4 +1,4 @@
-#resource/book #domain/certifications #domain/networking
+#resource/book #type/certifications #domain/networking
 
 # CCST Networking Study Guide
 

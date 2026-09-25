@@ -1,4 +1,4 @@
-#resource/book #domain/os #domain/homelabbing
+#resource/book #domain/os #domain/homelab
 
 # The Linux Command Line 
 

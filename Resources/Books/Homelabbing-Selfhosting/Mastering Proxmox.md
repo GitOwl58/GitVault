@@ -1,4 +1,4 @@
-#resource/book #domain/cloud-virtualisation #domain/homelabbing
+#resource/book #domain/cloud-virtualisation #domain/homelab
 
 # Mastering Proxmox
 

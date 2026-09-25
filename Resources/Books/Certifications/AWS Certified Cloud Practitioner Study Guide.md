@@ -1,4 +1,4 @@
-#resource/book #domain/certifications #domain/cloud-virtualisation
+#resource/book #type/certifications #domain/cloud-virtualisation
 
 # AWS Certified Cloud Practitioner Study Guide
 

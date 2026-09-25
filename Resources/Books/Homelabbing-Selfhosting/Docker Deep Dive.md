@@ -1,4 +1,4 @@
-#resource/book #domain/homelabbing #domain/cloud-virtualisation
+#resource/book #domain/homelab #domain/cloud-virtualisation
 
 # Docker Deep Dive
 

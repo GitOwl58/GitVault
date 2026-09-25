@@ -1,4 +1,4 @@
-#resource/book #domain/certifications
+#resource/book #type/certifications
 
 # CompTIA A+ Complete Study Guide
 
