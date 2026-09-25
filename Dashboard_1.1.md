@@ -14,6 +14,7 @@ const sections = [
   { name: "MOCs", path: "MOCs" },
   { name: "Homelabbing", path: "Homelabbing" },
   { name: "Resources", path: "Resources" },
+  { name: "Cheatsheets", path: "Cheatsheets" },
 ];
 
 if (!document.getElementById("dv11-dashboard-style")) {
