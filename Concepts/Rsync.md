@@ -1,4 +1,4 @@
-#domain/os
+#domain/software
 
 # Rsync
 

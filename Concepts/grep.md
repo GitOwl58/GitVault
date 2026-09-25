@@ -1,4 +1,4 @@
-#domain/os #domain/pentesting
+#domain/software #domain/pentesting
 
 # grep
 
@@ -7,7 +7,7 @@ Searches inside a file for a word or pattern and prints the matching line(s): th
 `grep pattern file.txt`
 
 ### Related
-[[bash]]
+[[Grep Cheatsheet]]  [[bash]]
 [[CLI]]
 [[Regular Expressions]]
 [[sed]]

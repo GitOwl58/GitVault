@@ -16,7 +16,7 @@ Private IP ranges (RFC 1918) — not routable on the public Internet, need [[NAT
 - `192.168.0.0 – 192.168.255.255` (192.168/16)
 
 ### Related
-[[IP address]]
+[[Subnetting Cheatsheet]]  [[IP address]]
 [[NAT]]
 [[Routing]]
 [[Networking]]

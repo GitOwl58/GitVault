@@ -1,4 +1,4 @@
-#domain/os #domain/security 
+#domain/software #domain/security 
 
 ## Powershell
 
@@ -6,7 +6,7 @@ Windows' command-line shell and scripting language, built on .NET — object-ori
 
 
 ### Related
-[[Windows]]
+[[PowerShell Cheatsheet]]  [[Windows]]
 [[CLI]]
 [[ADS]]
 

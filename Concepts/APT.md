@@ -1,4 +1,4 @@
-#domain/os
+#domain/software
 
 # APT
 
@@ -7,7 +7,7 @@ The Advanced Package Tool: Debian/Ubuntu's high-level package manager, wrapping 
 Common commands: `apt-cache search <term>` (search the local cache), `apt-cache show <package>` (view metadata), `apt list --installed`, `sudo apt install <package> -y`. Packages can also be installed manually with `sudo dpkg -i <file>.deb` after downloading a `.deb` directly.
 
 ### Related
-[[Parrot OS]]
+[[Package Management Cheatsheet]]  [[Parrot OS]]
 
 ### Source:
 [[02. Linux Distributions]]
