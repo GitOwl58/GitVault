@@ -1,4 +1,4 @@
-#resource/website #domain/security #domain/networking 
+#resource/website #type/cheatsheet #domain/security #domain/networking 
 
 # Iptables and UFW Cheatsheet
 

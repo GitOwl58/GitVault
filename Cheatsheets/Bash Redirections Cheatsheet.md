@@ -1,4 +1,4 @@
-#resource/website #domain/os 
+#resource/website #type/cheatsheet #domain/os 
 
 # Bash Redirections Cheatsheet
 

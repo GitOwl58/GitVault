@@ -1,4 +1,4 @@
-#resource/website #domain/software #domain/programming 
+#resource/website #type/cheatsheet #domain/software #domain/programming 
 
 # Python Cheatsheet
 

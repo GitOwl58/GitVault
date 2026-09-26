@@ -1,4 +1,4 @@
-#resource/website #domain/software #domain/security 
+#resource/website #type/cheatsheet #domain/software #domain/security 
 
 # PowerShell Cheatsheet
 

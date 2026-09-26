@@ -1,4 +1,4 @@
-#resource/website #domain/pentesting 
+#resource/website #type/cheatsheet #domain/pentesting 
 
 # Nmap Cheatsheet
 

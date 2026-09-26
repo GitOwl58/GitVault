@@ -1,4 +1,4 @@
-#resource/website #domain/networking 
+#resource/website #type/cheatsheet #domain/networking 
 
 # Common Ports Cheatsheet
 

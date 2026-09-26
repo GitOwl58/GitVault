@@ -1,4 +1,4 @@
-#resource/website #domain/software 
+#resource/website #type/cheatsheet #domain/software 
 
 # Grep Cheatsheet
 

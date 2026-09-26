@@ -1,4 +1,4 @@
-#resource/website #domain/pentesting #domain/networking 
+#resource/website #type/cheatsheet #domain/pentesting #domain/networking 
 
 # Wireshark Cheatsheet
 

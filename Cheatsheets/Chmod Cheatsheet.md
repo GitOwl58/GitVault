@@ -1,4 +1,4 @@
-#resource/website #domain/os #domain/security 
+#resource/website #type/cheatsheet #domain/os #domain/security 
 
 # Chmod Cheatsheet
 
