@@ -1,4 +1,4 @@
-#resource/book
+#resource/book #type/moc
 
 # MOC — Books
 

@@ -1,4 +1,5 @@
-#domain/software #domain/programming
+#domain/software #domain/programming #type/moc
+
 
 # MOC — Software Basics
 

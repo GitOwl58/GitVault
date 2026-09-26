@@ -1,4 +1,5 @@
-#domain/os
+#domain/os #type/moc
+
 
 # MOC — OS Basics
 
