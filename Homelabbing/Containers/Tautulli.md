@@ -8,6 +8,3 @@ Purely Plex-specific, there isn't a direct equivalent bundled with Jellyfin, tho
 
 ### Related
 [[Plex]] [[Monitoring]] [[Media Management (Arr Stack)]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

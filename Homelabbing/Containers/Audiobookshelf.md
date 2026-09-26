@@ -8,6 +8,3 @@ A common pairing: **[[Readarr]]** or manual downloads to acquire files, Audioboo
 
 ### Related
 [[Media Management (Arr Stack)]] [[Readarr]] [[Self-Hosted Service Stack]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

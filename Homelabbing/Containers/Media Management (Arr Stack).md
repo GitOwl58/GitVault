@@ -17,6 +17,3 @@ This is the part of a homelab most guides warn about installing all at once (see
 
 ### Related
 [[Media Servers]] [[Self-Hosted Service Stack]] [[Homelab Common Mistakes]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

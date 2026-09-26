@@ -8,6 +8,3 @@ Also supports alerting (a panel can trigger a notification when a metric crosses
 
 ### Related
 [[Monitoring]] [[Prometheus]] [[Uptime Kuma]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

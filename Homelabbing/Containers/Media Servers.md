@@ -11,6 +11,3 @@ The container that actually streams your library (movies, TV, music) to a phone,
 
 ### Related
 [[Self-Hosted Service Stack]] [[Media Management (Arr Stack)]] [[Homelab Setup]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

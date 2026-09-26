@@ -8,6 +8,3 @@ Mosquitto itself is just the broker, the message router in the middle, it doesn'
 
 ### Related
 [[Smart Home]] [[Home Assistant]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

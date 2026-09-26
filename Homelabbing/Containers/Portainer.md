@@ -8,6 +8,3 @@ Particularly useful once a homelab has enough containers that remembering every 
 
 ### Related
 [[Infrastructure and Management]] [[Docker]] [[Docker Compose]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

@@ -9,6 +9,3 @@ This used to be two separate, competing projects, **Overseerr** (Plex-focused) a
 
 ### Related
 [[Media Management (Arr Stack)]] [[Radarr]] [[Sonarr]] [[Plex]] [[Jellyfin]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

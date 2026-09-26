@@ -8,6 +8,3 @@ Effectively the plumbing layer that makes the rest of the Arr stack less repetit
 
 ### Related
 [[Media Management (Arr Stack)]] [[Sonarr]] [[Radarr]] [[Readarr]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

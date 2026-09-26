@@ -8,6 +8,3 @@ Supports quality profiles (so it only grabs, say, 1080p releases and upgrades la
 
 ### Related
 [[Media Management (Arr Stack)]] [[Radarr]] [[Prowlarr]] [[Bazarr]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

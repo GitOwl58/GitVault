@@ -8,6 +8,3 @@ Plugs into the Arr stack the same way qBittorrent does, **[[Sonarr]]**/**[[Radar
 
 ### Related
 [[Media Management (Arr Stack)]] [[qBittorrent]] [[Prowlarr]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

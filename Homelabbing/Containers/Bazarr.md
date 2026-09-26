@@ -8,6 +8,3 @@ Saves the manual "find and rename a .srt file" step that would otherwise apply t
 
 ### Related
 [[Media Management (Arr Stack)]] [[Sonarr]] [[Radarr]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

@@ -8,6 +8,3 @@ Runs as a small stack (the main server, a Postgres database with a vector-search
 
 ### Related
 [[Photos and Files]] [[Nextcloud]] [[NAS]] [[Homelab Backups and Maintenance]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

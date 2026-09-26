@@ -13,6 +13,3 @@ The most automated of the three common reverse proxy choices, and the most commo
 
 ### Related
 [[Infrastructure and Management]] [[Reverse Proxy]] [[Docker Compose]] [[Nginx Proxy Manager]] [[Caddy]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

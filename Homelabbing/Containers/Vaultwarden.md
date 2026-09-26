@@ -11,6 +11,3 @@ A lightweight, unofficial reimplementation of the Bitwarden server, written in R
 
 ### Related
 [[Password Managers]] [[Reverse Proxy]] [[Homelab Backups and Maintenance]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

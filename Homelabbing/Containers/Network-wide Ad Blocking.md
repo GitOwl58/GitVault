@@ -10,6 +10,3 @@ Blocking ads and trackers for every device on the network at once, at the DNS le
 
 ### Related
 [[Pi-hole]] [[AdGuard Home]] [[Homelab Networking Basics]] [[Self-Hosted Service Stack]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

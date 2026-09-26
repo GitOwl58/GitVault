@@ -13,6 +13,3 @@ A password manager is one of the few homelab services where downtime or a mistak
 
 ### Related
 [[Vaultwarden]] [[Self-Hosted Service Stack]] [[Homelab Backups and Maintenance]] [[Reverse Proxy]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

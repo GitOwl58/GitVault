@@ -6,6 +6,3 @@ A self-hosted household management tool centered on groceries and consumables: t
 
 ### Related
 [[Miscellaneous]] [[Self-Hosted Service Stack]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

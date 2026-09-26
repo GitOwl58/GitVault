@@ -8,6 +8,3 @@ Common Docker images (like `itzg/minecraft-server`) handle most of the setup thr
 
 ### Related
 [[Miscellaneous]] [[Homelab Backups and Maintenance]] [[Homelab Networking Basics]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

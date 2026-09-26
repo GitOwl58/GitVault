@@ -21,6 +21,3 @@ jellyfin:
 
 ### Related
 [[Media Servers]] [[Plex]] [[Seerr]] [[Reverse Proxy]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

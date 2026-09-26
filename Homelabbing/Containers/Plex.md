@@ -21,6 +21,3 @@ plex:
 
 ### Related
 [[Media Servers]] [[Jellyfin]] [[Tautulli]] [[Self-Hosted Service Stack]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

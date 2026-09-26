@@ -11,6 +11,3 @@ The "meta" containers, they don't do anything user-facing themselves, they manag
 
 ### Related
 [[Reverse Proxy]] [[Self-Hosted Service Stack]] [[Docker]] [[Docker Compose]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

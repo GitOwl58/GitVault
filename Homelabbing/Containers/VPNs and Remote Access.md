@@ -15,6 +15,3 @@ For a first homelab, Tailscale gets remote access working in minutes and is genu
 
 ### Related
 [[WireGuard]] [[Tailscale]] [[Netbird]] [[Homelab Networking Basics]] [[Self-Hosted Service Stack]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

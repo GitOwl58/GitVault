@@ -10,6 +10,3 @@ Replacing Google Photos/iCloud/Dropbox with something that lives on your own **[
 
 ### Related
 [[Immich]] [[Nextcloud]] [[NAS]] [[Self-Hosted Service Stack]] [[Homelab Backups and Maintenance]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

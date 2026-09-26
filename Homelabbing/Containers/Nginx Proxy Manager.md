@@ -8,6 +8,3 @@ Good default choice for a first reverse proxy setup, the tradeoff versus **[[Cad
 
 ### Related
 [[Infrastructure and Management]] [[Reverse Proxy]] [[Caddy]] [[Traefik]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

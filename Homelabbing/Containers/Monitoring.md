@@ -11,6 +11,3 @@ Keeping an eye on what's running matters as much as backing it up, see **[[Homel
 
 ### Related
 [[Uptime Kuma]] [[Prometheus]] [[Grafana]] [[Homelab Backups and Maintenance]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

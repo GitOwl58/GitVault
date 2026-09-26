@@ -8,6 +8,3 @@ Often run behind a VPN container (policy-routed so only qBittorrent's traffic go
 
 ### Related
 [[Media Management (Arr Stack)]] [[SABnzbd]] [[Sonarr]] [[Radarr]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

@@ -8,6 +8,3 @@ Broader in scope than **[[Immich]]**, which focuses specifically on photos, Next
 
 ### Related
 [[Photos and Files]] [[Immich]] [[NAS]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

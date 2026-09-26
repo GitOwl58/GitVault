@@ -8,6 +8,3 @@ A comparable, older self-hosted approach is running **Headscale** as an open-sou
 
 ### Related
 [[VPNs and Remote Access]] [[Tailscale]] [[WireGuard]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

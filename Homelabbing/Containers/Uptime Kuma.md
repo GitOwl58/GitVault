@@ -8,6 +8,3 @@ Much lower setup effort than a full **[[Prometheus]]** + **[[Grafana]]** stack, 
 
 ### Related
 [[Monitoring]] [[Prometheus]] [[Grafana]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

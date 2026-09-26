@@ -12,6 +12,3 @@ Bringing smart home devices under one roof (literally and figuratively) instead 
 
 ### Related
 [[Home Assistant]] [[Mosquitto (MQTT)]] [[Self-Hosted Service Stack]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

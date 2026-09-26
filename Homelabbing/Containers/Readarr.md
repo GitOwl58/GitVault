@@ -6,6 +6,3 @@ The Arr-stack app for books, ebooks and, depending on setup, audiobooks (though 
 
 ### Related
 [[Media Management (Arr Stack)]] [[Audiobookshelf]] [[Prowlarr]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

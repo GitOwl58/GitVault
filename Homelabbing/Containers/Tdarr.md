@@ -8,6 +8,3 @@ Supports distributed processing (multiple "node" workers, potentially across sev
 
 ### Related
 [[Media Management (Arr Stack)]] [[Self-Hosted Service Stack]] [[Proxmox]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

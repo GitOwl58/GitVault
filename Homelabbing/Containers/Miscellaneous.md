@@ -10,6 +10,3 @@ The self-hosted apps that don't fit neatly into another category but show up oft
 
 ### Related
 [[Grocy]] [[Minecraft Server]] [[Self-Hosted Service Stack]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

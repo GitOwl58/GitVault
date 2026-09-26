@@ -8,6 +8,3 @@ A time-series metrics collector: it periodically scrapes numeric metrics (CPU lo
 
 ### Related
 [[Monitoring]] [[Grafana]] [[Homelab Backups and Maintenance]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

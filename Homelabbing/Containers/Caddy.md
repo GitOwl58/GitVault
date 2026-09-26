@@ -14,6 +14,3 @@ A common middle ground between NPM's UI-driven simplicity and **[[Traefik]]**'s 
 
 ### Related
 [[Infrastructure and Management]] [[Reverse Proxy]] [[Nginx Proxy Manager]] [[Traefik]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

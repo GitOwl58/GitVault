@@ -8,6 +8,3 @@ Generally considered to have a somewhat more modern web UI than Pi-hole, and shi
 
 ### Related
 [[Network-wide Ad Blocking]] [[Pi-hole]] [[Homelab Networking Basics]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

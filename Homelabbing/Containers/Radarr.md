@@ -6,6 +6,3 @@ The movie equivalent of **[[Sonarr]]**: point it at a movie (or a whole watchlis
 
 ### Related
 [[Media Management (Arr Stack)]] [[Sonarr]] [[Prowlarr]] [[Seerr]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

@@ -14,6 +14,3 @@ Key exchange and coordination go through Tailscale's own servers (the actual tra
 
 ### Related
 [[VPNs and Remote Access]] [[WireGuard]] [[Netbird]] [[Homelab Networking Basics]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.

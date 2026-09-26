@@ -9,6 +9,3 @@ Fully automatic updates mean a breaking change in an upstream image applies itse
 
 ### Related
 [[Infrastructure and Management]] [[Docker]] [[Homelab Backups and Maintenance]]
-
-### Source:
-Synthesized from external homelab guides, not a course lesson, drafted for review before adding to the vault.
