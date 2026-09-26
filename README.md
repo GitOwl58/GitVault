@@ -29,7 +29,7 @@
     </td>
   </tr>
 </table>
-#Installation
+# Installation
 
 	- git clone https://github.com/GitOwl58/GitVault.git
 	- Open Obsidian and select "Open folder as vault"
