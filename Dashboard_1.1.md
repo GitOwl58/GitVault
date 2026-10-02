@@ -15,6 +15,7 @@ const sections = [
   { name: "Homelabbing", path: "Homelabbing" },
   { name: "Resources", path: "Resources" },
   { name: "Cheatsheets", path: "Cheatsheets" },
+  { name: "Setup Guides", path: "Setup Guides" },
 ];
 
 if (!document.getElementById("dv11-dashboard-style")) {
@@ -159,6 +160,12 @@ for (const section of sections) {
 html += `</div></div>`;
 dv.paragraph(html);
 ```
+
+
+
+
+
+
 
 
 
